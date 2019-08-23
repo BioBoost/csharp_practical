@@ -15,3 +15,6 @@ All exercises and challenges contain at least a `README.md` describing the task 
 | Challenge | Difficulty | Description |
 | --- | --- | --- |
 | [Making a Sandwich](./introduction_to_programming/01_introduction_to_computer_programming/challenges/making_a_sandwich/README.md) | Easy | Document the process of making a ham and cheese sandwich. |
+| [Programming Languages](./introduction_to_programming/01_introduction_to_computer_programming/challenges/programming_languages/README.md) | Medium | Search the Internet for some programming languages. |
+| [Processor Architecture](./introduction_to_programming/01_introduction_to_computer_programming/challenges/processor_architecture/README.md) | Medium | Search the Internet for the meaning of a processor architecture. |
+| [Biggest Number in a List](./introduction_to_programming/01_introduction_to_computer_programming/challenges/biggest_number_in_a_list/README.md) | Medium | Document the process of finding the biggest number in a list. |
