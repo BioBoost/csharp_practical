@@ -43,3 +43,22 @@ Please indicate which challenges you have finished by placing a ✔️ emoji in 
 | ❌ | [Motorcycles](./02_building_blocks/ch_motorcycles/README.md) | Medium | Determine the properties of Motorcycles |
 | ❌ | [Student Grader](./02_building_blocks/ch_student_grader/README.md) | Medium | Output message to user based on his grade |
 | ❌ | [Sum of Numbers](./02_building_blocks/ch_sum_of_numbers/README.md) | Hard | Determine the sum of a list of numbers |
+
+#### Chapter 03 - Starting in C#
+
+##### Exercises
+
+| Exercise | Difficulty | Description |
+| --- | --- | --- |
+| [Need a Break](./03_starting_csharp/ex_need_a_break/README.md) | Medium | Find and fix two small syntax errors |
+
+##### Challenges
+
+| Finished | Challenge | Difficulty | Description |
+| :---: | --- | --- | --- |
+| ❌ | [Hello World](./03_starting_csharp/ch_hello_world/README.md) | Easy | Print a Hello World message |
+| ❌ | [Basic Syntax Error](./03_starting_csharp/ch_basic_syntax_error/README.md) | Easy | Find and fix a small syntax error |
+| ❌ | [Developed By](./03_starting_csharp/ch_developed_by/README.md) | Easy | Print messsage and your name |
+| ❌ | [Java Programmer](./03_starting_csharp/ch_java_programmer/README.md) | Easy | Fix mistake of a Java programmer |
+| ❌ | [My First App](./03_starting_csharp/ch_my_first_app/README.md) | Medium | Create a new VS Project |
+| ❌ | [Personal Details](./03_starting_csharp/ch_personal_details/README.md) | Medium | Print out personal details |
