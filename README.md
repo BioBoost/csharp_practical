@@ -18,10 +18,10 @@ Please indicate which challenges you have finished by placing a ✔️ emoji in 
 
 | Finished | Challenge | Difficulty | Description |
 | :---: | --- | --- | --- |
-| ❌ | [Making a Sandwich](./introduction_to_programming/01_introduction_to_computer_programming/challenges/making_a_sandwich/README.md) | Easy | Document the process of making a ham and cheese sandwich. |
-| ❌ | [Programming Languages](./introduction_to_programming/01_introduction_to_computer_programming/challenges/programming_languages/README.md) | Medium | Search the Internet for some programming languages. |
-| ❌ | [Processor Architecture](./introduction_to_programming/01_introduction_to_computer_programming/challenges/processor_architecture/README.md) | Medium | Search the Internet for the meaning of a processor architecture. |
-| ❌ | [Biggest Number in a List](./introduction_to_programming/01_introduction_to_computer_programming/challenges/biggest_number_in_a_list/README.md) | Hard | Document the process of finding the biggest number in a list. |
+| ❌ | [Making a Sandwich](./01_introduction/ch_making_a_sandwich/README.md) | Easy | Document the process of making a ham and cheese sandwich. |
+| ❌ | [Programming Languages](./01_introduction/ch_programming_languages/README.md) | Medium | Search the Internet for some programming languages. |
+| ❌ | [Processor Architecture](./01_introduction/ch_processor_architecture/README.md) | Medium | Search the Internet for the meaning of a processor architecture. |
+| ❌ | [Biggest Number in a List](./01_introduction/ch_biggest_number_in_a_list/README.md) | Hard | Document the process of finding the biggest number in a list. |
 
 #### Chapter 02 - Basic Building Blocks
 
@@ -29,17 +29,17 @@ Please indicate which challenges you have finished by placing a ✔️ emoji in 
 
 | Exercise | Difficulty | Description |
 | --- | --- | --- |
-| [BMI Adult Check](./introduction_to_programming/02_basic_building_blocks/exercises/bmi_adult_check/README.md) | Easy | Check if user is an adult when calculating the BMI |
-| [Circle Circumference](./introduction_to_programming/02_basic_building_blocks/exercises/circle_circumference/README.md) | Medium | Determine the circumference of a circle |
-| [Cinema](./introduction_to_programming/02_basic_building_blocks/exercises/cinema/README.md) | Easy | Determine the properties of a cinema screening |
+| [BMI Adult Check](./02_building_blocks/ex_bmi_adult_check/README.md) | Easy | Check if user is an adult when calculating the BMI |
+| [Circle Circumference](./02_building_blocks/ex_circle_circumference/README.md) | Medium | Determine the circumference of a circle |
+| [Cinema](./02_building_blocks/ex_cinema/README.md) | Easy | Determine the properties of a cinema screening |
 
 ##### Challenges
 
 | Finished | Challenge | Difficulty | Description |
 | :---: | --- | --- | --- |
-| ❌ | [Personalized BMI](./introduction_to_programming/02_basic_building_blocks/challenges/personalized_bmi/README.md) | Easy | Personalize the BMI example with the users name |
-| ❌ | [Rectangle Area](./introduction_to_programming/02_basic_building_blocks/challenges/rectangle_area/README.md) | Medium | Determine the area of a rectangle |
-| ❌ | [Smartphones](./introduction_to_programming/02_basic_building_blocks/challenges/smartphones/README.md) | Easy | Determine the properties of Smartphones |
-| ❌ | [Motorcycles](./introduction_to_programming/02_basic_building_blocks/challenges/motorcycles/README.md) | Medium | Determine the properties of Motorcycles |
-| ❌ | [Student Grader](./introduction_to_programming/02_basic_building_blocks/challenges/student_grader/README.md) | Medium | Output message to user based on his grade |
-| ❌ | [Sum of Numbers](./introduction_to_programming/02_basic_building_blocks/challenges/sum_of_numbers/README.md) | Hard | Determine the sum of a list of numbers |
+| ❌ | [Personalized BMI](./02_building_blocks/ch_personalized_bmi/README.md) | Easy | Personalize the BMI example with the users name |
+| ❌ | [Rectangle Area](./02_building_blocks/ch_rectangle_area/README.md) | Medium | Determine the area of a rectangle |
+| ❌ | [Smartphones](./02_building_blocks/ch_smartphones/README.md) | Easy | Determine the properties of Smartphones |
+| ❌ | [Motorcycles](./02_building_blocks/ch_motorcycles/README.md) | Medium | Determine the properties of Motorcycles |
+| ❌ | [Student Grader](./02_building_blocks/ch_student_grader/README.md) | Medium | Output message to user based on his grade |
+| ❌ | [Sum of Numbers](./02_building_blocks/ch_sum_of_numbers/README.md) | Hard | Determine the sum of a list of numbers |
