@@ -23,8 +23,11 @@ All exercises and challenges contain at least a `README.md` describing the task 
 
 | Challenge | Difficulty | Description |
 | --- | --- | --- |
-| [Personalized BMI](./introduction_to_programming/02_basic_building_blocks/challenges/personalized_bmi/README.md) | Easy | Personalize the BMI example with the users name |
 | [BMI Adult Check](./introduction_to_programming/02_basic_building_blocks/challenges/bmi_adult_check/README.md) | Easy | Check if user is an adult when calculating the BMI |
+
+| Challenge | Difficulty | Description |
+| --- | --- | --- |
+| [Personalized BMI](./introduction_to_programming/02_basic_building_blocks/challenges/personalized_bmi/README.md) | Easy | Personalize the BMI example with the users name |
 | [Rectangle Area](./introduction_to_programming/02_basic_building_blocks/challenges/rectangle_area/README.md) | Medium | Determine the area of a rectangle |
 | [Smartphones](./introduction_to_programming/02_basic_building_blocks/challenges/smartphones/README.md) | Easy | Determine the properties of Smartphones |
 | [Motorcycles](./introduction_to_programming/02_basic_building_blocks/challenges/motorcycles/README.md) | Medium | Determine the properties of Motorcycles |
