@@ -17,7 +17,7 @@ Please indicate which challenges you have finished by placing a ✔️ emoji in 
 ##### Challenges
 
 | Finished | Challenge | Difficulty | Description |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ❌ | [Making a Sandwich](./introduction_to_programming/01_introduction_to_computer_programming/challenges/making_a_sandwich/README.md) | Easy | Document the process of making a ham and cheese sandwich. |
 | ❌ | [Programming Languages](./introduction_to_programming/01_introduction_to_computer_programming/challenges/programming_languages/README.md) | Medium | Search the Internet for some programming languages. |
 | ❌ | [Processor Architecture](./introduction_to_programming/01_introduction_to_computer_programming/challenges/processor_architecture/README.md) | Medium | Search the Internet for the meaning of a processor architecture. |
@@ -36,7 +36,7 @@ Please indicate which challenges you have finished by placing a ✔️ emoji in 
 ##### Challenges
 
 | Finished | Challenge | Difficulty | Description |
-| --- | --- | --- | --- |
+| :---: | --- | --- | --- |
 | ❌ | [Personalized BMI](./introduction_to_programming/02_basic_building_blocks/challenges/personalized_bmi/README.md) | Easy | Personalize the BMI example with the users name |
 | ❌ | [Rectangle Area](./introduction_to_programming/02_basic_building_blocks/challenges/rectangle_area/README.md) | Medium | Determine the area of a rectangle |
 | ❌ | [Smartphones](./introduction_to_programming/02_basic_building_blocks/challenges/smartphones/README.md) | Easy | Determine the properties of Smartphones |
