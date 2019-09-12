@@ -21,9 +21,13 @@ All exercises and challenges contain at least a `README.md` describing the task 
 
 #### Chapter 02 - Basic Building Blocks
 
-| Challenge | Difficulty | Description |
+##### Exercises
+
+| Exercise | Difficulty | Description |
 | --- | --- | --- |
 | [BMI Adult Check](./introduction_to_programming/02_basic_building_blocks/challenges/bmi_adult_check/README.md) | Easy | Check if user is an adult when calculating the BMI |
+
+##### Challenges
 
 | Challenge | Difficulty | Description |
 | --- | --- | --- |
