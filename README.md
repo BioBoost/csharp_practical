@@ -48,7 +48,7 @@ All git commands in other sections should always be executed inside of the proje
 
 Changes can be committed and pushed back to GitHub using the terminal.
 
-Traverse to your local `csharp-practical-<username>` directory and type `powershell` in the location bar as done previously in [section Starting](#starting).
+Traverse to your local `csharp-practical-<username>` directory and type `powershell` in the location bar as done previously in [section Starting as a Student](#starting-as-a-student).
 
 1. Add all changed files: `git add .`
 2. Commit the files and add a message: `git commit -m "My message goes here"`
