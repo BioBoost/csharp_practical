@@ -34,7 +34,7 @@ git clone <place-ssh-url-here>
 You should get the following output:
 
 ```text
-Cloning into 'csharp_practical'...
+Cloning into 'csharp-practical-BioBoost'...
 Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
 remote: Enumerating objects: 185, done.
 remote: Compressing objects: 100% (109/109), done.
@@ -43,6 +43,8 @@ Resolving deltas: 100% (57/57), done.
 ```
 
 Now you should have your local copy of the repository.
+
+All git commands in other sections should always be executed inside of this project dir called `csharp-practical-<username>`.
 
 ## Committing Changes
 
