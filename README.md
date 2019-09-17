@@ -8,24 +8,22 @@ Each chapter may contain both a number of exercises as well as challenges. Exerc
 
 All exercises and challenges contain at least a `README.md` describing the task at hand. Most already contain a Visual Studio solution to start from.
 
-## Starting
+## Starting as a Student
 
-To start with these practical assignments there are two options
+To get started you will first need to get a copy of this repository. Follow the steps below to get your own personal copy. This only needs to be done once.
 
-* cloning the original repository [https://github.com/BioBoost/csharp_practical](https://github.com/BioBoost/csharp_practical)
- * Only if you are not enrolled in the actual course
-* cloning the personal GitHub classroom repository (use this approach as a **student**)
- * Get the access link from Toledo
- * Accept the GitHub classroom assignment
- * Open the GitHub page and copy the ssh clone-url (green button) that looks like `git@github.com:vives-introduction-to-programming-2019/csharp_practical-<username>.git`
-
-Traverse to a directory where you wish to clone the repo using Windows Explorer. Open PowerShell in that location by typing `powershell` in the location bar as shown in the screenshot below.
+1. Get the GitHub classroom invitation link from Toledo
+2. Accept the assignment
+3. Wait for your own personal copy to be created (can take up to several minutes)
+4. Open the GitHub page of your repository
+5. Copy the ssh clone-url (green button) that looks like `git@github.com:vives-introduction-to-programming-2019/csharp_practical-<username>.git`
+6. Traverse to a local directory on your system where you wish to clone the repo using Windows Explorer. Open PowerShell in that location by typing `powershell` in the location bar as shown in the screenshot below.
 
 *Please don't choose a destination directory that is nested very deeply. The structure of this repo introduces quite a lot of subdirectories and might give problems towards maximum path length in Windows.*
 
 ![Opening PowerShell in directory](./img/powershell.png)
 
-Issue the `git clone` command followed by the url you copied.
+7. Issue the `git clone` command followed by the url you copied.
 
 ```shell
 git clone <place-ssh-url-here>
@@ -44,7 +42,7 @@ Resolving deltas: 100% (57/57), done.
 
 Now you should have your local copy of the repository.
 
-All git commands in other sections should always be executed inside of this project dir called `csharp-practical-<username>`.
+All git commands in other sections should always be executed inside of the project dir called `csharp-practical-<username>`.
 
 ## Committing Changes
 
