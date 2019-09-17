@@ -1,5 +1,7 @@
 # CSharp Practical
 
+This repository belongs to: **YOUR_NAME_HERE**
+
 This repository contains the exercises and challenges that accompany the C\# course at VIVES University of Applied Sciences at Bruges which can be found at [https://hardcore-archimedes-bf4fb0.netlify.com/](https://hardcore-archimedes-bf4fb0.netlify.com/).
 
 Each chapter may contain both a number of exercises as well as challenges. Exercises come with solutions, challenges do not.
@@ -17,13 +19,89 @@ To start with these practical assignments there are two options
  * Accept the GitHub classroom assignment
  * Open the GitHub page and copy the ssh clone-url (green button) that looks like `git@github.com:vives-introduction-to-programming-2019/csharp_practical-<username>.git`
 
-Open PowerShell and traverse to a directory where you wish to clone the repo and issue the `git clone` command followed by the url you copied.
+Traverse to a directory where you wish to clone the repo using Windows Explorer. Open PowerShell in that location by typing `powershell` in the location bar as shown in the screenshot below.
+
+*Please don't choose a destination directory that is nested very deeply. The structure of this repo introduces quite a lot of subdirectories and might give problems towards maximum path length in Windows.*
+
+![Opening PowerShell in directory](./img/powershell.png)
+
+Issue the `git clone` command followed by the url you copied.
 
 ```shell
 git clone <place-ssh-url-here>
 ```
 
+You should get the following output:
+
+```text
+Cloning into 'csharp_practical'...
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+remote: Enumerating objects: 185, done.
+remote: Compressing objects: 100% (109/109), done.
+Receiving objects: 100% (185/185), 128.22 KiB | 625.00 KiB/s, done.
+Resolving deltas: 100% (57/57), done.
+```
+
 Now you should have your local copy of the repository.
+
+## Committing Changes
+
+There are two options when you wish to commit your solutions:
+
+* from inside of Visual Studio (if it was a VS project you changed)
+* from the PowerShell terminal
+
+### Committing Code from VS
+
+If you only changed code in Visual Studio, you can commit your changes inside of Visual Studio.
+
+1. Open the *Solution Explorer* on the right.
+2. Right click the *Solution* and hit `Commit`.
+3. Enter a commit message (what you did)
+4. Select `Commit and Push`.
+5. The message `Successfully pushed to origin/master` should appear.
+
+![Commit and Push](./img/commit_and_push_vs.png)
+
+You can also navigate to your GitHub page of this repo and check if all went well.
+
+### Committing from PowerShell
+
+If you changed something else than a Visual Studio project you may need to commit from the terminal.
+
+Start by opening a PowerShell terminal in the `csharp-practical-<username>` directory.
+
+1. Add all changed files: `git add .`
+2. Commit the files and add a message: `git commit -m "My message goes here"`
+3. Push your changes to GitHub: `git push origin master`
+
+![Committing and pushing via PowerShell](./img/commit_push_powershell.png)
+
+4. To make sure all is well, you can always issue the command `git status`, even in between other commands.
+
+You can also navigate to your GitHub page of this repo and check if all went well.
+
+## Pulling the Latest Updates
+
+To pull the latest updates you will first need to add the original repo on which this one was based. This only needs to be done once for every cloned instance:
+
+```shell
+git remote add base git@github.com:vives-introduction-to-programming-2019/csharp_practical.git
+```
+
+`base` is the name of remote repo. Now you should see two remotes when issuing the command `git remote -v`. For example:
+
+```text
+base     git@github.com:vives-introduction-to-programming-2019/csharp_practical.git (fetch)
+base     git@github.com:vives-introduction-to-programming-2019/csharp_practical.git (push)
+origin  git@github.com:vives-introduction-to-programming-2019/csharp-practical-BioBoost.git (fetch)
+origin  git@github.com:vives-introduction-to-programming-2019/csharp-practical-BioBoost.git (push)
+```
+
+Now every time you wish to pull updates you need to follow these steps:
+
+1. First make sure that you have no local changes. This can be seen by executing `git status`. It should state `nothing to commit, working tree clean`. If not, you first need to add and commit the changes (see section [Committing Changes](#committing-changes)).
+2. Now issue the command `git pull base master` to pull the latest changes.
 
 ## Overview
 
