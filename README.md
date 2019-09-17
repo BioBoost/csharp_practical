@@ -105,6 +105,8 @@ Now every time you wish to pull updates you need to follow these steps:
 1. First make sure that you have no local changes. This can be seen by executing `git status`. It should state `nothing to commit, working tree clean`. If not, you first need to add and commit the changes (see section [Committing Changes](#committing-changes)).
 2. Now issue the command `git pull base master` to pull the latest changes.
 
+![Pulling Changes](./img/pulling_changes.png)
+
 ## Overview
 
 Please indicate which challenges you have finished by placing a ✔️ emoji in the finished column. These were found at [https://emojipedia.org](https://emojipedia.org).
