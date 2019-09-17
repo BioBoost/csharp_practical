@@ -48,30 +48,9 @@ All git commands in other sections should always be executed inside of this proj
 
 ## Committing Changes
 
-There are two options when you wish to commit your solutions:
+Changes can be committed and pushed back to GitHub using the terminal.
 
-* from inside of Visual Studio (if it was a VS project you changed)
-* from the PowerShell terminal
-
-### Committing Code from VS
-
-If you only changed code in Visual Studio, you can commit your changes inside of Visual Studio.
-
-1. Open the *Solution Explorer* on the right.
-2. Right click the *Solution* and hit `Commit`.
-3. Enter a commit message (what you did)
-4. Select `Commit and Push`.
-5. The message `Successfully pushed to origin/master` should appear.
-
-![Commit and Push](./img/commit_and_push_vs.png)
-
-You can also navigate to your GitHub page of this repo and check if all went well.
-
-### Committing from PowerShell
-
-If you changed something else than a Visual Studio project you may need to commit from the terminal.
-
-Start by opening a PowerShell terminal in the `csharp-practical-<username>` directory.
+Traverse to your local `csharp-practical-<username>` directory and type `powershell` in the location bar as done previously in [section Starting](#starting).
 
 1. Add all changed files: `git add .`
 2. Commit the files and add a message: `git commit -m "My message goes here"`
@@ -82,6 +61,8 @@ Start by opening a PowerShell terminal in the `csharp-practical-<username>` dire
 4. To make sure all is well, you can always issue the command `git status`, even in between other commands.
 
 You can also navigate to your GitHub page of this repo and check if all went well.
+
+Make it a habit of committing regularly. At least after solving each assignment.
 
 ## Pulling the Latest Updates
 
@@ -159,7 +140,7 @@ Please indicate which challenges you have finished by placing a ✔️ emoji in 
 | :---: | --- | --- | --- |
 | ❌ | [Hello World](./03_starting_csharp/ch_hello_world/README.md) | Easy | Print a Hello World message |
 | ❌ | [Basic Syntax Error](./03_starting_csharp/ch_basic_syntax_error/README.md) | Easy | Find and fix a small syntax error |
-| ❌ | [Developed By](./03_starting_csharp/ch_developed_by/README.md) | Easy | Print messsage and your name |
+| ❌ | [Developed By](./03_starting_csharp/ch_developed_by/README.md) | Easy | Print message and your name |
 | ❌ | [Java Programmer](./03_starting_csharp/ch_java_programmer/README.md) | Easy | Fix mistake of a Java programmer |
 | ❌ | [My First App](./03_starting_csharp/ch_my_first_app/README.md) | Medium | Create a new VS Project |
 | ❌ | [Personal Details](./03_starting_csharp/ch_personal_details/README.md) | Medium | Print out personal details |
