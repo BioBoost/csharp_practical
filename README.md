@@ -6,6 +6,25 @@ Each chapter may contain both a number of exercises as well as challenges. Exerc
 
 All exercises and challenges contain at least a `README.md` describing the task at hand. Most already contain a Visual Studio solution to start from.
 
+## Starting
+
+To start with these practical assignments there are two options
+
+* cloning the original repository [https://github.com/BioBoost/csharp_practical](https://github.com/BioBoost/csharp_practical)
+ * Only if you are not enrolled in the actual course
+* cloning the personal GitHub classroom repository (use this approach as a **student**)
+ * Get the access link from Toledo
+ * Accept the GitHub classroom assignment
+ * Open the GitHub page and copy the ssh clone-url (green button) that looks like `git@github.com:vives-introduction-to-programming-2019/csharp_practical-<username>.git`
+
+Open PowerShell and traverse to a directory where you wish to clone the repo and issue the `git clone` command followed by the url you copied.
+
+```shell
+git clone <place-ssh-url-here>
+```
+
+Now you should have your local copy of the repository.
+
 ## Overview
 
 Please indicate which challenges you have finished by placing a ✔️ emoji in the finished column. These were found at [https://emojipedia.org](https://emojipedia.org).
