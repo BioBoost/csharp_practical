@@ -171,3 +171,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | :---: | --- | --- | --- | :---: |
 | ❌ | [C# Land](./04_storing_data/ch_csharp_land/README.md) | Easy | Initialize minimum required height variable | 👍 |
 | ❌ | [Frame Delimiter](./04_storing_data/ch_frame_delimiter/README.md) | Medium | Initialize start and end of frame delimiter | 👍 |
+| ❌ | [Marco Polo](./04_storing_data/ch_marco_polo/README.md) | Medium | Output some personal details about Marco Polo | 👍 |
