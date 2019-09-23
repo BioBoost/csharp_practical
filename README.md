@@ -92,7 +92,23 @@ Please indicate which challenges you have finished by placing a ✔️ emoji in 
 
 ## xUnit Tests
 
-todo
+Unit Tests allow code to be tested automatically for correctness.
+
+Some exercises/challenges might be accompanied by these tests (👍 in `Unit Tests?` column).
+
+Open the `Test Explorer` overview in Visual Studio by navigating to `Test => Windows => Test Explorer`.
+
+Hit the first green arrow at the top left (Run All):
+
+![Run All Tests](./img/run_all_unit_tests.png)
+
+Normally the tests will always fail in the beginning.
+
+![Failing Tests](./img/failing_tests.png)
+
+If the challenge/exercise is solved correctly, all tests should pass.
+
+![Succeeding Tests](./img/succeeding_tests.png)
 
 ### Introduction to Programming
 
