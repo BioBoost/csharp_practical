@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLand", "CSharpLand\CSharpLand.csproj", "{01098BC9-06C7-4E9D-978B-8B2E921C112B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{E9DE78E7-8AD0-4C93-8823-973CE5743895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01098BC9-06C7-4E9D-978B-8B2E921C112B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01098BC9-06C7-4E9D-978B-8B2E921C112B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01098BC9-06C7-4E9D-978B-8B2E921C112B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01098BC9-06C7-4E9D-978B-8B2E921C112B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9DE78E7-8AD0-4C93-8823-973CE5743895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DE78E7-8AD0-4C93-8823-973CE5743895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DE78E7-8AD0-4C93-8823-973CE5743895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DE78E7-8AD0-4C93-8823-973CE5743895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76C0E3BF-9698-4B7A-8D80-C6B38DF2448F}
+	EndGlobalSection
+EndGlobal

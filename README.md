@@ -90,6 +90,10 @@ Now every time you wish to pull updates you need to follow these steps:
 
 Please indicate which challenges you have finished by placing a ✔️ emoji in the finished column. These were found at [https://emojipedia.org](https://emojipedia.org).
 
+## xUnit Tests
+
+todo
+
 ### Introduction to Programming
 
 #### Chapter 01 - Introduction to Computer Programming
@@ -142,3 +146,11 @@ Please indicate which challenges you have finished by placing a ✔️ emoji in 
 | ❌ | [Java Programmer](./03_starting_csharp/ch_java_programmer/README.md) | Easy | Fix mistake of a Java programmer |
 | ❌ | [My First App](./03_starting_csharp/ch_my_first_app/README.md) | Medium | Create a new VS Project |
 | ❌ | [Personal Details](./03_starting_csharp/ch_personal_details/README.md) | Medium | Print out personal details |
+
+#### Chapter 04 - Storing Data
+
+##### Challenges
+
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | --- |
+| ❌ | [C# Land](./04_storing_data/ch_csharp_land/README.md) | Easy | Initialize minimum required height variable | 👍 |
