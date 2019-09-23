@@ -165,14 +165,14 @@ If the challenge/exercise is solved correctly, all tests should pass.
 
 #### Chapter 04 - Storing Data
 
-##### Challenges
+##### Exercises
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
-| ❌ | [C# Land](./04_storing_data/ch_csharp_land/README.md) | Easy | Initialize minimum required height variable | 👍 |
-| ❌ | [Frame Delimiter](./04_storing_data/ch_frame_delimiter/README.md) | Medium | Initialize start and end of frame delimiter | 👍 |
-| ❌ | [Marco Polo](./04_storing_data/ch_marco_polo/README.md) | Medium | Output some personal details about Marco Polo | 👍 |
-| ❌ | [Programming Bugs](./04_storing_data/ch_programming_bugs/README.md) | Hard | Output authored message of the day | 👍 |
+| ❌ | [C# Land](./04_storing_data/ex_csharp_land/README.md) | Easy | Initialize minimum required height variable | 👍 |
+| ❌ | [Frame Delimiter](./04_storing_data/ex_frame_delimiter/README.md) | Medium | Initialize start and end of frame delimiter | 👍 |
+| ❌ | [Marco Polo](./04_storing_data/ex_marco_polo/README.md) | Medium | Output some personal details about Marco Polo | 👍 |
+| ❌ | [Programming Bugs](./04_storing_data/ex_programming_bugs/README.md) | Hard | Output authored message of the day | 👍 |
 
 #### Chapter 05 - Processing Data
 
