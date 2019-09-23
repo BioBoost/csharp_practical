@@ -8,6 +8,7 @@ namespace FrameDelimiter
     {
         public byte StartOfFrame()
         {
+            // TODO: Set start of frame delimiter to AA hexadecimal
             byte startOfFrame = 0;
 
             Console.WriteLine("A frame always starts with: " + startOfFrame);
@@ -18,6 +19,7 @@ namespace FrameDelimiter
 
         public byte EndOfFrame()
         {
+            // TODO: Set end of frame delimiter to 55 hexadecimal
             byte endOfFrame = 0;
 
             Console.WriteLine("A frame always ends with: " + endOfFrame);

@@ -12,6 +12,7 @@ namespace CSharpLand
             Console.WriteLine("Hosting the craziest rollercoast in the universe.");
             Console.WriteLine("The Deathanator!!!");
 
+            // TODO: Change the minimum height to 1m and 30cm
             double minimumPersonHeight = 0;
 
             Console.WriteLine("To ride the rollercoast, you need to be at least "
