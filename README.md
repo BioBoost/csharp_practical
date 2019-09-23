@@ -173,3 +173,11 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Frame Delimiter](./04_storing_data/ch_frame_delimiter/README.md) | Medium | Initialize start and end of frame delimiter | 👍 |
 | ❌ | [Marco Polo](./04_storing_data/ch_marco_polo/README.md) | Medium | Output some personal details about Marco Polo | 👍 |
 | ❌ | [Programming Bugs](./04_storing_data/ch_programming_bugs/README.md) | Hard | Output authored message of the day | 👍 |
+
+#### Chapter 05 - Processing Data
+
+##### Exercises
+
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Rectangle Properties](./05_processing_data/ex_rectangle_properties/README.md) | Easy | Calculate area and circumference of a rectangle | 👍 |
