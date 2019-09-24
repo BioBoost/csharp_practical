@@ -1,6 +1,6 @@
 # Rectangle Properties
 
-This application was build to determine the `area` and `circumference` of a rectangle. However the previous student programming this app forgot the formules for both.
+This application was build to determine the `area` and `circumference` of a rectangle. However the previous student programming this app forgot the formulas for both.
 
 Both calculations need to be implemented in the methods `CalculateArea` and `CalculateCircumference` in the file `RectangleProperties\Rectangle.cs`.
 
