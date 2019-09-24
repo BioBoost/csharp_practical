@@ -191,5 +191,5 @@ If the challenge/exercise is solved correctly, all tests should pass.
 ##### Challenges
 
 | Finished | Challenge | Difficulty | Description |
-| :---: | --- | --- | --- | :---: |
+| :---: | --- | --- | --- |
 | ❌ | [Circle Properties](./05_processing_data/ch_circle_properties/README.md) | Hard | Show properties of a circle |
