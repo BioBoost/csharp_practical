@@ -62,6 +62,8 @@ You can also navigate to your GitHub page of this repo and check if all went wel
 
 Make it a habit of committing regularly. At least after solving each assignment.
 
+Also checkout the [shortened version of these steps for everyday use](./short_instructions.md).
+
 ## Pulling the Latest Updates
 
 To pull the latest updates you will first need to add the original repo on which this one was based. This only needs to be done once for every cloned instance:
@@ -85,6 +87,8 @@ Now every time you wish to pull updates you need to follow these steps:
 2. Now issue the command `git pull base master` to pull the latest changes.
 
 ![Pulling Changes](./img/pull_changes.png)
+
+Also checkout the [shortened version of these steps for everyday use](./short_instructions.md).
 
 ## Overview
 
