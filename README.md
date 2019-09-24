@@ -185,3 +185,9 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Rectangle Properties](./05_processing_data/ex_rectangle_properties/README.md) | Easy | Calculate area and circumference of a rectangle | 👍 |
+
+##### Challenges
+
+| Finished | Challenge | Difficulty | Description |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Circle Properties](./05_processing_data/ch_circle_properties/README.md) | Hard | Show properties of a circle |
