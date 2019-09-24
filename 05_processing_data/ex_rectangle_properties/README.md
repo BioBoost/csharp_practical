@@ -7,7 +7,8 @@ Both calculations need to be implemented in the methods `CalculateArea` and `Cal
 Expected output:
 
 ```text
-The rectangle has an area of 24sq centimeters.
+Rectangle: 3cm by 8cm
+The rectangle has an area of 22sq centimeters.
 The rectangle has an circumference of 22 centimeters.
 ```
 
