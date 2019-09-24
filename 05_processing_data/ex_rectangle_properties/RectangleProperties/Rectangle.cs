@@ -32,7 +32,7 @@ namespace RectangleProperties
             // Print some info to the terminal
             Console.WriteLine("Rectangle: " + width + "cm by " + height + "cm");
 
-            Console.WriteLine("The rectangle has an area of " + CalculateCircumference()
+            Console.WriteLine("The rectangle has an area of " + CalculateArea()
                 + "sq centimeters.");
 
             Console.WriteLine("The rectangle has an circumference of " + CalculateCircumference()
