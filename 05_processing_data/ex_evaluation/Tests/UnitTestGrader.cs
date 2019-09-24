@@ -5,7 +5,7 @@ using Xunit;
 
 namespace Tests
 {
-    public class UnitTest1
+    public class UnitTestGrader
     {
         private Grader uut = new Grader();
 
@@ -21,7 +21,7 @@ namespace Tests
         public void TestAverage()
         {
             Assert.Equal((GetPrivateField<double>("examScore") + GetPrivateField<double>("labScore"))/2,
-                uut.Average());
+                uut.Average(), 2);
         }
 
         [Fact]
@@ -30,7 +30,7 @@ namespace Tests
             double expected = (2 * GetPrivateField<double>("examScore") +
                 3 * GetPrivateField<double>("labScore")) / 5;
             Assert.Equal(expected,
-                uut.Total());
+                uut.Total(), 2);
         }
     }
 }
