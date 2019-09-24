@@ -12,6 +12,7 @@ namespace Tests
                 .GetField("width", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance)
                 .GetValue(rectangle);
         }
+
         private double GetHeight(Rectangle rectangle)
         {
             return (double)typeof(Rectangle)
