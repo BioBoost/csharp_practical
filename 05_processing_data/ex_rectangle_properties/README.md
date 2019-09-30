@@ -14,4 +14,4 @@ The rectangle has an circumference of 22 centimeters.
 
 ## Unit Tests
 
-This project has accompanying unit tests. See [xUnit Tests](/README.md#xunit_tests) on how to run them.
+This project has accompanying unit tests. See [xUnit Tests](/README.md#xunit-tests) on how to run them.

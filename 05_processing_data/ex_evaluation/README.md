@@ -19,4 +19,4 @@ Lenny Dermond:
 
 ## Unit Tests
 
-This project has accompanying unit tests. See [xUnit Tests](/README.md#xunit_tests) on how to run them.
+This project has accompanying unit tests. See [xUnit Tests](/README.md#xunit-tests) on how to run them.

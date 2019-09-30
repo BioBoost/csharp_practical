@@ -9,4 +9,4 @@ Two methods need to implemented inside of the file `PizzaTime\PizzaDivider.cs`:
 
 ## Unit Tests
 
-This project has accompanying unit tests. See [xUnit Tests](/README.md#xunit_tests) on how to run them.
+This project has accompanying unit tests. See [xUnit Tests](/README.md#xunit-tests) on how to run them.
