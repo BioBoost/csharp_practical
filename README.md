@@ -202,3 +202,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Student ID](./06_getting_user_data/ex_student_id/README.md) | Medium | Generate student email and ID | 👍 |
+| ❌ | [Time Machine](./06_getting_user_data/ex_time_machine/README.md) | Hard | Add hours and minutes to clock | 👍 |
