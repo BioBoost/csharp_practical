@@ -203,3 +203,9 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Student ID](./06_getting_user_data/ex_student_id/README.md) | Medium | Generate student email and ID | 👍 |
 | ❌ | [Time Machine](./06_getting_user_data/ex_time_machine/README.md) | Hard | Add hours and minutes to clock | 👍 |
+
+##### Challenges
+
+| Finished | Challenge | Difficulty | Description |
+| :---: | --- | --- | --- |
+| ❌ | [Square Roots](./06_getting_user_data/ch_square_roots/README.md) | Medium | Determine square roots of integer numbers |
