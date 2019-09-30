@@ -187,6 +187,7 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Rectangle Properties](./05_processing_data/ex_rectangle_properties/README.md) | Easy | Calculate area and circumference of a rectangle | 👍 |
 | ❌ | [Pizza Time](./05_processing_data/ex_pizza_time/README.md) | Medium | Divide pizzas among people | 👍 |
 | ❌ | [Evaluation](./05_processing_data/ex_evaluation/README.md) | Medium | Determine final score of course | 👍 |
+| ❌ | [Calculating VAT](./05_processing_data/ex_calculate_vat/README.md) | Medium | Calculate taxes on a netto value | 👍 |
 
 ##### Challenges
 
