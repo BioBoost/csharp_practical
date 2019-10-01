@@ -210,3 +210,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Baby Roulette](./07_making_decisions/baby_roulette/README.md) |Medium | Build a guessing game | ❌ |
 | ❌ | [Square Roots](./07_making_decisions/square_roots/README.md) | Medium | Determine square roots of integer numbers | ❌ |
 | ❌ | [Number Properties](./07_making_decisions/number_properties/README.md) | Hard | Determine the properties of two numbers | ❌ |
+| ❌ | [Drifting Years](./07_making_decisions/drifting_years/README.md) | Medium | Check if given year is a leap year | 👍 |
