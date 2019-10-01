@@ -210,4 +210,5 @@ If the challenge/exercise is solved correctly, all tests should pass.
 
 | Finished | Challenge | Difficulty | Description |
 | :---: | --- | --- | --- |
+| ❌ | [Baby Roulette](./07_making_decisions/ch_baby_roulette/README.md) |Medium | Build a guessing game |
 | ❌ | [Square Roots](./07_making_decisions/ch_square_roots/README.md) | Medium | Determine square roots of integer numbers |
