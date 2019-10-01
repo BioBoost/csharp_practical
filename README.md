@@ -189,6 +189,7 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Evaluation](./05_processing_data/ex_evaluation/README.md) | Medium | Determine final score of course | 👍 |
 | ❌ | [Calculating VAT](./05_processing_data/ex_calculate_vat/README.md) | Medium | Calculate taxes on a netto value | 👍 |
 | ❌ | [Fundamental Calculus](./05_processing_data/ex_fundamental_calculus/README.md) | Easy | Model a calculator | 👍 |
+| ❌ | [Pythagoras](./05_processing_data/ex_pythagoras/README.md) | Easy | Implement the Pythagorean theorem | 👍 |
 
 ##### Challenges
 
