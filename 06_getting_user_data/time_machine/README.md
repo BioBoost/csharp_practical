@@ -1,6 +1,6 @@
 # Time Machine
 
-The year is 2014. You just turned 14 years old but you are already a wiz kit with computers. While programming in C# you discovered some hidden classes inside the system that allowed you to manipulate time (sorry, no space).
+The year is 2014. You just turned 14 years old but you are already a wizz-kid with computers. While programming in C# you discovered some hidden classes inside the system that allowed you to manipulate time (sorry, no space).
 
 You developed a class called `Clock` that allows you to jump forward in time. All that remains is to implement the methods that allow you to jump a number of hours (`AddHours()`) and a number of minutes (`AddMinutes()`) forward.
 
