@@ -197,18 +197,14 @@ If the challenge/exercise is solved correctly, all tests should pass.
 
 #### Chapter 06 - Getting User Data
 
-##### Exercises
-
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
-| ❌ | [Student ID](./06_getting_user_data/ex_student_id/README.md) | Medium | Generate student email and ID | 👍 |
-| ❌ | [Time Machine](./06_getting_user_data/ex_time_machine/README.md) | Hard | Add hours and minutes to clock | 👍 |
+| ❌ | [Student ID](./06_getting_user_data/student_id/README.md) | Medium | Generate student email and ID | 👍 |
+| ❌ | [Time Machine](./06_getting_user_data/time_machine/README.md) | Hard | Add hours and minutes to clock | 👍 |
 
 #### Chapter 07 - Making Decisions
 
-##### Challenges
-
-| Finished | Challenge | Difficulty | Description |
-| :---: | --- | --- | --- |
-| ❌ | [Baby Roulette](./07_making_decisions/ch_baby_roulette/README.md) |Medium | Build a guessing game |
-| ❌ | [Square Roots](./07_making_decisions/ch_square_roots/README.md) | Medium | Determine square roots of integer numbers |
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Baby Roulette](./07_making_decisions/baby_roulette/README.md) |Medium | Build a guessing game | ❌ |
+| ❌ | [Square Roots](./07_making_decisions/square_roots/README.md) | Medium | Determine square roots of integer numbers | ❌ |
