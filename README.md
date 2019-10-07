@@ -214,3 +214,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Drifting Years](./07_making_decisions/drifting_years/README.md) | Medium | Check if given year is a leap year | 👍 |
 | ❌ | [Rectangle Area](./07_making_decisions/rectangle_area/README.md) | Easy | Determine area of rectangle | 👍 |
 | ❌ | [Biggest Number](./07_making_decisions/biggest_number/README.md) | Medium | Biggest number out of 3 | 👍 |
+| ❌ | [ConverterNator](./07_making_decisions/converternator/README.md) | Hard | Menu Choice of Imperial versus Metric conversions | 👍 |
