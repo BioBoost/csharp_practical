@@ -212,3 +212,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Square Roots](./07_making_decisions/square_roots/README.md) | Medium | Determine square roots of integer numbers | ❌ |
 | ❌ | [Number Properties](./07_making_decisions/number_properties/README.md) | Hard | Determine the properties of two numbers | ❌ |
 | ❌ | [Drifting Years](./07_making_decisions/drifting_years/README.md) | Medium | Check if given year is a leap year | 👍 |
+| ❌ | [Rectangle Area](./07_making_decisions/rectangle_area/README.md) | Easy | Determine area of rectangle | 👍 |
