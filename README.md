@@ -215,3 +215,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Rectangle Area](./07_making_decisions/rectangle_area/README.md) | Easy | Determine area of rectangle | 👍 |
 | ❌ | [Biggest Number](./07_making_decisions/biggest_number/README.md) | Medium | Biggest number out of 3 | 👍 |
 | ❌ | [ConverterNator](./07_making_decisions/converternator/README.md) | Hard | Menu Choice of Imperial versus Metric conversions | 👍 |
+| ❌ | [Coordinate Plane](./07_making_decisions/coordinate_plane/README.md) | Easy | Determine quadrant of a point in 2D space | 👍 |
