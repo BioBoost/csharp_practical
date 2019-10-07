@@ -1,0 +1,1 @@
+Request room sizes from user and sum all values.
