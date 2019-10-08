@@ -216,3 +216,11 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Biggest Number](./07_making_decisions/biggest_number/README.md) | Medium | Biggest number out of 3 | 👍 |
 | ❌ | [ConverterNator](./07_making_decisions/converternator/README.md) | Hard | Menu Choice of Imperial versus Metric conversions | 👍 |
 | ❌ | [Coordinate Plane](./07_making_decisions/coordinate_plane/README.md) | Easy | Determine quadrant of a point in 2D space | 👍 |
+
+#### Chapter 08 - Iterating
+
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Up and Down](./08_iterating_/up_and_down/README.md) | Medium | Generate series using for-loops | ❌ |
+| ❌ | [Roll Em All](./08_iterating_/roll_em_all/README.md) | Medium | Throwing Dice | ❌ |
+| ❌ | [Start to End](./08_iterating_/start_to_end/README.md) | Medium | Summing Series | 👍 |
