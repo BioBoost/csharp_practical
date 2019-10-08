@@ -221,6 +221,7 @@ If the challenge/exercise is solved correctly, all tests should pass.
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
-| ❌ | [Up and Down](./08_iterating_/up_and_down/README.md) | Medium | Generate series using for-loops | ❌ |
-| ❌ | [Roll Em All](./08_iterating_/roll_em_all/README.md) | Medium | Throwing Dice | ❌ |
-| ❌ | [Start to End](./08_iterating_/start_to_end/README.md) | Medium | Summing Series | 👍 |
+| ❌ | [Up and Down](./08_iterating/up_and_down/README.md) | Medium | Generate series using for-loops | ❌ |
+| ❌ | [Roll Em All](./08_iterating/roll_em_all/README.md) | Medium | Throwing Dice | ❌ |
+| ❌ | [Start to End](./08_iterating/start_to_end/README.md) | Medium | Summing Series | 👍 |
+| ❌ | [Child's Play](./08_iterating/childs_play/README.md) | Hard | Summation Game | ❌ |
