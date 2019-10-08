@@ -13,5 +13,5 @@ Looping [10, 0]: 10 9 8 7 6 5 4 3 2 1 0
 Looping [0, 10] (even numbers): 0 2 4 6 8 10
 Looping ]0, 100] (multiples of 11): 11 22 33 44 55 66 77 88 99
 Looping [1, 10000] (i times 5): 1 5 25 125 625 3125
-Looping ]4096, 0[ (divided by 2): 4096 2048 1024 512 256 128 64 32 16 8 4 2 1
+Looping [4096, 0[ (divided by 2): 4096 2048 1024 512 256 128 64 32 16 8 4 2 1
 ```
