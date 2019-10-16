@@ -226,3 +226,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Start to End](./08_iterating/start_to_end/README.md) | Medium | Summing Series | 👍 |
 | ❌ | [Child's Play](./08_iterating/childs_play/README.md) | Hard | Summation Game | ❌ |
 | ❌ | [Visual Rectangle](./08_iterating/visual_rectangle/README.md) | Hard | Drawing rectangle in the terminal | ❌ |
+| ❌ | [Higher / Lower](./08_iterating/higher_lower/README.md) | Medium | Build a higher /lower guessing game | ❌ |
