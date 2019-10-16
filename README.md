@@ -227,3 +227,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Child's Play](./08_iterating/childs_play/README.md) | Hard | Summation Game | ❌ |
 | ❌ | [Visual Rectangle](./08_iterating/visual_rectangle/README.md) | Hard | Drawing rectangle in the terminal | ❌ |
 | ❌ | [Higher / Lower](./08_iterating/higher_lower/README.md) | Medium | Build a higher /lower guessing game | ❌ |
+| ❌ | [Fibonacci Sequence](./08_iterating/fibonacci_sequence/README.md) | Medium | Generate the Fibonacci sequence | ❌ |
