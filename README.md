@@ -225,3 +225,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Roll Em All](./08_iterating/roll_em_all/README.md) | Medium | Throwing Dice | ❌ |
 | ❌ | [Start to End](./08_iterating/start_to_end/README.md) | Medium | Summing Series | 👍 |
 | ❌ | [Child's Play](./08_iterating/childs_play/README.md) | Hard | Summation Game | ❌ |
+| ❌ | [Visual Rectangle](./08_iterating/visual_rectangle/README.md) | Hard | Drawing rectangle in the terminal | ❌ |
