@@ -4,7 +4,7 @@ Create a new C# Console Application (.NET Core). This application should allow t
 
 Example:
 
-```
+```text
 Welcome to the Rectangle Visualizer.
 
 Please choose your next action:
