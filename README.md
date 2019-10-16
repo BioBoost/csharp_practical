@@ -228,3 +228,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Visual Rectangle](./08_iterating/visual_rectangle/README.md) | Hard | Drawing rectangle in the terminal | ❌ |
 | ❌ | [Higher / Lower](./08_iterating/higher_lower/README.md) | Medium | Build a higher /lower guessing game | ❌ |
 | ❌ | [Fibonacci Sequence](./08_iterating/fibonacci_sequence/README.md) | Medium | Generate the Fibonacci sequence | ❌ |
+| ❌ | [Greatest Common Factor](./08_iterating/greatest_common_factor/README.md) | Medium | Brute-force the gcf of two numbers | 👍 |
