@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryNibble", "BinaryNibble\BinaryNibble.csproj", "{17034AB7-7F76-414F-9BBC-B6A793878828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{B22B0C3D-3DFB-4678-B1E3-1513C9A5B1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17034AB7-7F76-414F-9BBC-B6A793878828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17034AB7-7F76-414F-9BBC-B6A793878828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17034AB7-7F76-414F-9BBC-B6A793878828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17034AB7-7F76-414F-9BBC-B6A793878828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22B0C3D-3DFB-4678-B1E3-1513C9A5B1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22B0C3D-3DFB-4678-B1E3-1513C9A5B1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22B0C3D-3DFB-4678-B1E3-1513C9A5B1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22B0C3D-3DFB-4678-B1E3-1513C9A5B1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0BCC296-3613-49E4-A7B3-A4EAA4C1AED6}
+	EndGlobalSection
+EndGlobal
