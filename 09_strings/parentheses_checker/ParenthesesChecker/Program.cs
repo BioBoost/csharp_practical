@@ -19,7 +19,6 @@ namespace ParenthesesChecker
             {
                 Console.WriteLine($"\nThe code snippet contains unmatched parentheses.");
             }
-            
         }
     }
 }
