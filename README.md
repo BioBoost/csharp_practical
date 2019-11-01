@@ -237,3 +237,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Binary Nibble](./09_strings/binary_nibble/README.md) | Hard | Binary representation of decimal value | 👍 |
+| ❌ | [Parentheses Checker](./09_strings/parentheses_checker/README.md) | Medium | Check line of code for matching parentheses | 👍 |
