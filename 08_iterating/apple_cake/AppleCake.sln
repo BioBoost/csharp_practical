@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleCake", "AppleCake\AppleCake.csproj", "{E4C13CBB-C26C-4AB0-9147-9D94263357AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{8DEFB845-AC32-4344-A6FD-AD5893B6F7DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution", "Solution\Solution.csproj", "{844741C3-825E-494C-87E7-4C9A65B1F9F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C13CBB-C26C-4AB0-9147-9D94263357AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C13CBB-C26C-4AB0-9147-9D94263357AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C13CBB-C26C-4AB0-9147-9D94263357AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C13CBB-C26C-4AB0-9147-9D94263357AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEFB845-AC32-4344-A6FD-AD5893B6F7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEFB845-AC32-4344-A6FD-AD5893B6F7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEFB845-AC32-4344-A6FD-AD5893B6F7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEFB845-AC32-4344-A6FD-AD5893B6F7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844741C3-825E-494C-87E7-4C9A65B1F9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844741C3-825E-494C-87E7-4C9A65B1F9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844741C3-825E-494C-87E7-4C9A65B1F9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844741C3-825E-494C-87E7-4C9A65B1F9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1FE93AC-42FC-4262-A5C2-788A5E2B4FD0}
+	EndGlobalSection
+EndGlobal

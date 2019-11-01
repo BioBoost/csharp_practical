@@ -230,6 +230,7 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Higher / Lower](./08_iterating/higher_lower/README.md) | Medium | Build a higher /lower guessing game | ❌ |
 | ❌ | [Fibonacci Sequence](./08_iterating/fibonacci_sequence/README.md) | Medium | Generate the Fibonacci sequence | ❌ |
 | ❌ | [Greatest Common Factor](./08_iterating/greatest_common_factor/README.md) | Medium | Brute-force the gcf of two numbers | 👍 |
+| ❌ | [AppleCake](./08_iterating/apple_cake/README.md) | Medium | AppleCake word game | 👍 |
 
 #### Chapter 09 - Strings
 
