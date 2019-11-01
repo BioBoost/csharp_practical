@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LEDSeriesResistor", "LEDSeriesResistor\LEDSeriesResistor.csproj", "{14304B83-4CB2-4F32-8E0D-3D8AD4868423}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{C0F61189-F66B-409A-A18D-353C2B3E0DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution", "Solution\Solution.csproj", "{2692CAD1-914A-49EE-8932-6915BFCE7F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14304B83-4CB2-4F32-8E0D-3D8AD4868423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14304B83-4CB2-4F32-8E0D-3D8AD4868423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14304B83-4CB2-4F32-8E0D-3D8AD4868423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14304B83-4CB2-4F32-8E0D-3D8AD4868423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F61189-F66B-409A-A18D-353C2B3E0DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F61189-F66B-409A-A18D-353C2B3E0DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F61189-F66B-409A-A18D-353C2B3E0DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F61189-F66B-409A-A18D-353C2B3E0DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2692CAD1-914A-49EE-8932-6915BFCE7F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2692CAD1-914A-49EE-8932-6915BFCE7F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2692CAD1-914A-49EE-8932-6915BFCE7F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2692CAD1-914A-49EE-8932-6915BFCE7F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC900767-1F87-48AB-960E-206886AD67FD}
+	EndGlobalSection
+EndGlobal
