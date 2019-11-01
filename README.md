@@ -237,5 +237,6 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Binary Nibble](./09_strings/binary_nibble/README.md) | Hard | Binary representation of decimal value | 👍 |
+| ❌ | [Reversal](./09_strings/reversal/README.md) | Easy | Reverse the characters of a string | 👍 |
 | ❌ | [Parentheses Checker](./09_strings/parentheses_checker/README.md) | Medium | Check line of code for matching parentheses | 👍 |
 | ❌ | [Palindrome](./09_strings/palindrome/README.md) | Medium | Determine if a word is a palindrome | 👍 |
