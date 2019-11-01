@@ -241,3 +241,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Parentheses Checker](./09_strings/parentheses_checker/README.md) | Medium | Check line of code for matching parentheses | 👍 |
 | ❌ | [Palindrome](./09_strings/palindrome/README.md) | Medium | Determine if a word is a palindrome | 👍 |
 | ❌ | [Words Everywhere](./09_strings/words_everywhere/README.md) | Medium | Determine the number of words in a text | 👍 |
+| ❌ | [How Many Times](./09_strings/how_many_times/README.md) | Medium | Find the number of occurrences of a word | 👍 |
