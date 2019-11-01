@@ -238,3 +238,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Binary Nibble](./09_strings/binary_nibble/README.md) | Hard | Binary representation of decimal value | 👍 |
 | ❌ | [Parentheses Checker](./09_strings/parentheses_checker/README.md) | Medium | Check line of code for matching parentheses | 👍 |
+| ❌ | [Palindrome](./09_strings/palindrome/README.md) | Medium | Determine if a word is a palindrome | 👍 |
