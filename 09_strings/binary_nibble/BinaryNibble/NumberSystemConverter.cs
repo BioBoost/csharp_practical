@@ -12,6 +12,7 @@ namespace BinaryNibble
             // binary string representation
             string binary = "";
 
+            // Please dont change the code below (automatic unit tests)
             return binary;
         }
     }
