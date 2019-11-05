@@ -242,3 +242,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Palindrome](./09_strings/palindrome/README.md) | Medium | Determine if a word is a palindrome | 👍 |
 | ❌ | [Words Everywhere](./09_strings/words_everywhere/README.md) | Medium | Determine the number of words in a text | 👍 |
 | ❌ | [How Many Times](./09_strings/how_many_times/README.md) | Medium | Find the number of occurrences of a word | 👍 |
+| ❌ | [Replace Performance](./09_strings/replace_performance/README.md) | Hard | Replace substring in text | 👍 |
