@@ -244,3 +244,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [How Many Times](./09_strings/how_many_times/README.md) | Medium | Find the number of occurrences of a word | 👍 |
 | ❌ | [Replace Performance](./09_strings/replace_performance/README.md) | Hard | Replace substring in text | 👍 |
 | ❌ | [Pattern Builder](./09_strings/pattern_builder/README.md) | Easy | Shape builder app for console | ❌ |
+| ❌ | [String Properties](./09_strings/string_properties/README.md) | Easy | Analyze string for character classes | 👍 |
