@@ -20,10 +20,12 @@
 ## Creating C# Apps via CLI
 
 ```shell
-$PROJECT="SumOfNumbers"
+$PROJECT="BiggestOfThemAll"
 
 dotnet new console --name $PROJECT --language c# --framework netcoreapp2.1
 dotnet new xunit --name Tests --language c# --framework netcoreapp2.1
 dotnet new sln --name $PROJECT
 dotnet sln $PROJECT.sln add $PROJECT/$PROJECT.csproj Tests/Tests.csproj
+dotnet add Tests/Tests.csproj reference $PROJECT/$PROJECT.csproj
+touch README.md
 ```
