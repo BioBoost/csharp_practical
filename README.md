@@ -251,4 +251,5 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Multiples of Three](./10_arrays/multiples_of_three/README.md) | Easy | Generate array with multiples of three | 👍 |
-| ❌ | [The Sum of All Numbers](./10_arrays/the_sum_of_all_numbers/README.md) | Easy | Calculate sum of array of ints | 👍 |
+| ❌ | [The Sum of All Numbers](./10_arrays/the_sum_of_all_numbers/README.md) | Easy | Calculate sum of array of integers | 👍 |
+| ❌ | [String to Numbers](./10_arrays/strings_to_numbers/README.md) | Medium | Convert array of strings to array of integers | 👍 |
