@@ -245,3 +245,9 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Replace Performance](./09_strings/replace_performance/README.md) | Hard | Replace substring in text | 👍 |
 | ❌ | [Pattern Builder](./09_strings/pattern_builder/README.md) | Easy | Shape builder app for console | ❌ |
 | ❌ | [Text Properties](./09_strings/text_properties/README.md) | Easy | Analyze string for character classes | 👍 |
+
+#### Chapter 10 - Arrays
+
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Multiples of Three](./10_arrays/multiples_of_three/README.md) | Easy | Generate array with multiples of three | 👍 |
