@@ -256,3 +256,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Turn the Tables](./10_arrays/turn_the_tables/README.md) | Medium | Multiply arrays with each other | 👍 |
 | ❌ | [Biggest of them All](./10_arrays/biggest_of_them_all/README.md) | Medium | Determine the biggest number in an array | 👍 |
 | ❌ | [Time for Change](./10_arrays/time_for_change/README.md) | Hard | A vending machine simulator | ❌ |
+| ❌ | [Join the Resistance](./10_arrays/join_the_resistance/README.md) | Medium | A resistor color band converter | ❌ |
