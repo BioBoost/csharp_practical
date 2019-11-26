@@ -255,3 +255,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [String to Numbers](./10_arrays/strings_to_numbers/README.md) | Medium | Convert array of strings to array of integers | 👍 |
 | ❌ | [Turn the Tables](./10_arrays/turn_the_tables/README.md) | Medium | Multiply arrays with each other | 👍 |
 | ❌ | [Biggest of them All](./10_arrays/biggest_of_them_all/README.md) | Medium | Determine the biggest number in an array | 👍 |
+| ❌ | [Time for Change](./10_arrays/time_for_change/README.md) | Hard | A vending machine simulator | ❌ |
