@@ -255,3 +255,9 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [String to Numbers](./10_arrays/strings_to_numbers/README.md) | Medium | Convert array of strings to array of integers | 👍 |
 | ❌ | [Turn the Tables](./10_arrays/turn_the_tables/README.md) | Medium | Multiply arrays with each other | 👍 |
 | ❌ | [Biggest of them All](./10_arrays/biggest_of_them_all/README.md) | Medium | Determine the biggest number in an array | 👍 |
+
+#### Chapter 13 - Objects and Classes
+
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Point in Space](./13_objects_and_classes/point_in_space/README.md) | Medium | Create class of 2D Point | 👍 |
