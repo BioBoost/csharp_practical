@@ -261,3 +261,4 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Point in Space](./13_objects_and_classes/point_in_space/README.md) | Medium | Create class of 2D Point | 👍 |
+| ❌ | [Round About](./13_objects_and_classes/round_about/README.md) | Medium | Create a class for a Circle | 👍 |
