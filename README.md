@@ -246,6 +246,7 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Pattern Builder](./09_strings/pattern_builder/README.md) | Easy | Shape builder app for console | ❌ |
 | ❌ | [Text Properties](./09_strings/text_properties/README.md) | Easy | Analyze string for character classes | 👍 |
 | ❌ | [Abbreviate This](./09_strings/abbreviate_this/README.md) | Medium | Abbreviate words in a string | 👍 |
+| ❌ | [Binary Coding](./09_strings/binary_coding/README.md) | Easy | Convert binary to decimal | 👍 |
 
 #### Chapter 10 - Arrays
 
