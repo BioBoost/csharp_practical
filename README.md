@@ -257,6 +257,7 @@ If the challenge/exercise is solved correctly, all tests should pass.
 | ❌ | [Biggest of them All](./10_arrays/biggest_of_them_all/README.md) | Medium | Determine the biggest number in an array | 👍 |
 | ❌ | [Time for Change](./10_arrays/time_for_change/README.md) | Hard | A vending machine simulator | ❌ |
 | ❌ | [Join the Resistance](./10_arrays/join_the_resistance/README.md) | Medium | A resistor color band converter | ❌ |
+| ❌ | [Absolute Sum](./10_arrays/absolute_sum/README.md) | Easy | Calculate sum of array of absolute values | 👍 |
 
 #### Chapter 13 - Objects and Classes
 
