@@ -223,6 +223,7 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Abbreviate This](./09_strings/abbreviate_this/README.md) | Medium | Abbreviate words in a string | 👍 |
 | ❌ | [Binary Coding](./09_strings/binary_coding/README.md) | Easy | Convert binary to decimal | 👍 |
 | ❌ | [Holo Gram](./09_strings/holo_gram/README.md) | Easy | Check if sentence contains all the letters of the alphabet | 👍 |
+| ❌ | [Not My Mail](./09_strings/not_my_mail/README.md) | Medium | Basic validation of email address | 👍 |
 
 #### Chapter 10 - Arrays
 
