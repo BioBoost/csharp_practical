@@ -2,11 +2,11 @@
 
 This repository belongs to: **YOUR_NAME_HERE**
 
-This repository contains the exercises and challenges that accompany the C\# course at VIVES University of Applied Sciences at Bruges which can be found at [http://base-to-ace.netlify.com](http://base-to-ace.netlify.com).
+This repository contains the challenges that accompany the C\# course at VIVES University of Applied Sciences at Bruges which can be found at [http://base-to-ace.netlify.com](http://base-to-ace.netlify.com).
 
-Each chapter may contain both a number of exercises as well as challenges. Exercises come with solutions, challenges do not.
+Each chapter contains a number of challenges. Some may come with solutions other may not. Most of them are accompanied by Unit Tests.
 
-All exercises and challenges contain at least a `README.md` describing the task at hand. Most already contain a Visual Studio solution to start from.
+All challenges contain at least a `README.md` describing the task at hand. Most already contain a Visual Studio solution to start from.
 
 ## Starting as a Student
 
@@ -19,9 +19,9 @@ To get started you will first need to get a copy of this repository. Follow the 
 5. Copy the ssh clone-url (green button) that looks like `git@github.com:vives-introduction-to-programming-2019/csharp_practical-<username>.git`
 6. Traverse to a local directory on your system where you wish to clone the repo using Windows Explorer. Open PowerShell in that location by typing `powershell` in the location bar as shown in the screenshot below.
 
-*Please don't choose a destination directory that is nested very deeply. The structure of this repo introduces quite a lot of subdirectories and might give problems towards maximum path length in Windows.*
+    *Please don't choose a destination directory that is nested very deeply. The structure of this repo introduces quite a lot of subdirectories and might give problems towards maximum path length in Windows.*
 
-![Opening PowerShell in directory](./img/powershell.png)
+    ![Opening PowerShell in directory](./img/powershell.png)
 
 7. Issue the `git clone` command followed by the url you copied.
 
@@ -54,7 +54,7 @@ Traverse to your local `csharp-practical-<username>` directory and type `powersh
 2. Commit the files and add a message: `git commit -m "My message goes here"`
 3. Push your changes to GitHub: `git push origin master`
 
-![Committing and pushing via PowerShell](./img/commit_push_powershell.png)
+    ![Committing and pushing via PowerShell](./img/commit_push_powershell.png)
 
 4. To make sure all is well, you can always issue the command `git status`, even in between other commands.
 
@@ -98,7 +98,7 @@ Please indicate which challenges you have finished by placing a ✔️ emoji in 
 
 Unit Tests allow code to be tested automatically for correctness.
 
-Some exercises/challenges might be accompanied by these tests (👍 in `Unit Tests?` column).
+Some challenges might be accompanied by these tests (👍 in `Unit Tests?` column).
 
 Open the `Test Explorer` overview in Visual Studio by navigating to `Test => Windows => Test Explorer`.
 
@@ -110,15 +110,13 @@ Normally the tests will always fail in the beginning.
 
 ![Failing Tests](./img/failing_tests.png)
 
-If the challenge/exercise is solved correctly, all tests should pass.
+If the challenge is solved correctly, all tests should pass.
 
 ![Succeeding Tests](./img/succeeding_tests.png)
 
 ### Introduction to Programming
 
 #### Chapter 01 - Introduction to Computer Programming
-
-##### Challenges
 
 | Finished | Challenge | Difficulty | Description |
 | :---: | --- | --- | --- |
@@ -129,18 +127,11 @@ If the challenge/exercise is solved correctly, all tests should pass.
 
 #### Chapter 02 - Basic Building Blocks
 
-##### Exercises
-
-| Exercise | Difficulty | Description |
-| --- | --- | --- |
-| [BMI Adult Check](./02_building_blocks/ex_bmi_adult_check/README.md) | Easy | Check if user is an adult when calculating the BMI |
-| [Circle Circumference](./02_building_blocks/ex_circle_circumference/README.md) | Medium | Determine the circumference of a circle |
-| [Cinema](./02_building_blocks/ex_cinema/README.md) | Easy | Determine the properties of a cinema screening |
-
-##### Challenges
-
 | Finished | Challenge | Difficulty | Description |
 | :---: | --- | --- | --- |
+| ❌ | [BMI Adult Check](./02_building_blocks/ex_bmi_adult_check/README.md) | Easy | Check if user is an adult when calculating the BMI |
+| ❌ | [Circle Circumference](./02_building_blocks/ex_circle_circumference/README.md) | Medium | Determine the circumference of a circle |
+| ❌ | [Cinema](./02_building_blocks/ex_cinema/README.md) | Easy | Determine the properties of a cinema screening |
 | ❌ | [Personalized BMI](./02_building_blocks/ch_personalized_bmi/README.md) | Easy | Personalize the BMI example with the users name |
 | ❌ | [Rectangle Area](./02_building_blocks/ch_rectangle_area/README.md) | Medium | Determine the area of a rectangle |
 | ❌ | [Smartphones](./02_building_blocks/ch_smartphones/README.md) | Easy | Determine the properties of Smartphones |
@@ -150,26 +141,17 @@ If the challenge/exercise is solved correctly, all tests should pass.
 
 #### Chapter 03 - Starting in C#
 
-##### Exercises
-
-| Exercise | Difficulty | Description |
-| --- | --- | --- |
-| [Need a Break](./03_starting_csharp/ex_need_a_break/README.md) | Medium | Find and fix two small syntax errors |
-
-##### Challenges
-
-| Finished | Challenge | Difficulty | Description |
-| :---: | --- | --- | --- |
-| ❌ | [Hello World](./03_starting_csharp/ch_hello_world/README.md) | Easy | Print a Hello World message |
-| ❌ | [Basic Syntax Error](./03_starting_csharp/ch_basic_syntax_error/README.md) | Easy | Find and fix a small syntax error |
-| ❌ | [Developed By](./03_starting_csharp/ch_developed_by/README.md) | Easy | Print message and your name |
-| ❌ | [Java Programmer](./03_starting_csharp/ch_java_programmer/README.md) | Easy | Fix mistake of a Java programmer |
-| ❌ | [My First App](./03_starting_csharp/ch_my_first_app/README.md) | Medium | Create a new VS Project |
-| ❌ | [Personal Details](./03_starting_csharp/ch_personal_details/README.md) | Medium | Print out personal details |
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Need a Break](./03_starting_csharp/ex_need_a_break/README.md) | Medium | Find and fix two small syntax errors | ❌ |
+| ❌ | [Hello World](./03_starting_csharp/ch_hello_world/README.md) | Easy | Print a Hello World message | ❌ |
+| ❌ | [Basic Syntax Error](./03_starting_csharp/ch_basic_syntax_error/README.md) | Easy | Find and fix a small syntax error | ❌ |
+| ❌ | [Developed By](./03_starting_csharp/ch_developed_by/README.md) | Easy | Print message and your name | ❌ |
+| ❌ | [Java Programmer](./03_starting_csharp/ch_java_programmer/README.md) | Easy | Fix mistake of a Java programmer | ❌ |
+| ❌ | [My First App](./03_starting_csharp/ch_my_first_app/README.md) | Medium | Create a new VS Project | ❌ |
+| ❌ | [Personal Details](./03_starting_csharp/ch_personal_details/README.md) | Medium | Print out personal details | ❌ |
 
 #### Chapter 04 - Storing Data
-
-##### Exercises
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
@@ -180,21 +162,14 @@ If the challenge/exercise is solved correctly, all tests should pass.
 
 #### Chapter 05 - Processing Data
 
-##### Exercises
-
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Rectangle Properties](./05_processing_data/ex_rectangle_properties/README.md) | Easy | Calculate area and circumference of a rectangle | 👍 |
 | ❌ | [Pizza Time](./05_processing_data/ex_pizza_time/README.md) | Medium | Divide pizzas among people | 👍 |
 | ❌ | [Evaluation](./05_processing_data/ex_evaluation/README.md) | Medium | Determine final score of course | 👍 |
-| ❌ | [Calculating VAT](./05_processing_data/ex_calculate_vat/README.md) | Medium | Calculate taxes on a netto value | 👍 |
+| ❌ | [Calculating VAT](./05_processing_data/ex_calculate_vat/README.md) | Medium | Calculate taxes on a net value | 👍 |
 | ❌ | [Fundamental Calculus](./05_processing_data/ex_fundamental_calculus/README.md) | Easy | Model a calculator | 👍 |
 | ❌ | [Pythagoras](./05_processing_data/ex_pythagoras/README.md) | Easy | Implement the Pythagorean theorem | 👍 |
-
-##### Challenges
-
-| Finished | Challenge | Difficulty | Description |
-| :---: | --- | --- | --- |
 | ❌ | [Circle Properties](./05_processing_data/ch_circle_properties/README.md) | Hard | Show properties of a circle |
 
 #### Chapter 06 - Getting User Data
