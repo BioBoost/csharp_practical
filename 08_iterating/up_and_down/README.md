@@ -1,3 +1,13 @@
+---
+name: Binary Nibble
+difficulty: Medium
+description: Convert 4 bits to decimal value
+keywords: string, loop
+draft: false
+solved: true
+unitTests: false
+---
+
 # Up and Down
 
 Create a new C# Console App (.NET Core).
