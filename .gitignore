@@ -350,3 +350,6 @@ MigrationBackup/
 
 # Visual Code settings
 .vscode
+
+# Generated VuePress files
+.vuepress/dist
