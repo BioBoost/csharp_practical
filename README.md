@@ -244,3 +244,9 @@ If the challenge is solved correctly, all tests should pass.
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Point in Space](./13_objects_and_classes/point_in_space/README.md) | Medium | Create class of 2D Point | 👍 |
 | ❌ | [Round About](./13_objects_and_classes/round_about/README.md) | Medium | Create a class for a Circle | 👍 |
+
+#### Chapter 23 - Custom Classes
+
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Teach the Teacher](./23-defining-custom-classes/teach_the_teacher/README.md) | Medium | Store personal details of teacher | 👍 |
