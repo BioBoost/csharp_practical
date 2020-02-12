@@ -179,64 +179,64 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Student ID](./06_getting_user_data/student_id/README.md) | Medium | Generate student email and ID | 👍 |
 | ❌ | [Time Machine](./06_getting_user_data/time_machine/README.md) | Hard | Add hours and minutes to clock | 👍 |
 
-#### Chapter 07 - Making Decisions
+#### Chapter 08 - Making Decisions
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
-| ❌ | [Baby Roulette](./07_making_decisions/baby_roulette/README.md) |Medium | Build a guessing game | ❌ |
-| ❌ | [Square Roots](./07_making_decisions/square_roots/README.md) | Medium | Determine square roots of integer numbers | ❌ |
-| ❌ | [Number Properties](./07_making_decisions/number_properties/README.md) | Hard | Determine the properties of two numbers | ❌ |
-| ❌ | [Drifting Years](./07_making_decisions/drifting_years/README.md) | Medium | Check if given year is a leap year | 👍 |
-| ❌ | [Rectangle Area](./07_making_decisions/rectangle_area/README.md) | Easy | Determine area of rectangle | 👍 |
-| ❌ | [Biggest Number](./07_making_decisions/biggest_number/README.md) | Medium | Biggest number out of 3 | 👍 |
-| ❌ | [ConverterNator](./07_making_decisions/converternator/README.md) | Hard | Menu Choice of Imperial versus Metric conversions | 👍 |
-| ❌ | [Coordinate Plane](./07_making_decisions/coordinate_plane/README.md) | Easy | Determine quadrant of a point in 2D space | 👍 |
-| ❌ | [LED Series Resistor](./07_making_decisions/led_series_resistor/README.md) | Easy | Determine the series resistor of an LED | 👍 |
+| ❌ | [Baby Roulette](./08_making_decisions/baby_roulette/README.md) |Medium | Build a guessing game | ❌ |
+| ❌ | [Square Roots](./08_making_decisions/square_roots/README.md) | Medium | Determine square roots of integer numbers | ❌ |
+| ❌ | [Number Properties](./08_making_decisions/number_properties/README.md) | Hard | Determine the properties of two numbers | ❌ |
+| ❌ | [Drifting Years](./08_making_decisions/drifting_years/README.md) | Medium | Check if given year is a leap year | 👍 |
+| ❌ | [Rectangle Area](./08_making_decisions/rectangle_area/README.md) | Easy | Determine area of rectangle | 👍 |
+| ❌ | [Biggest Number](./08_making_decisions/biggest_number/README.md) | Medium | Biggest number out of 3 | 👍 |
+| ❌ | [ConverterNator](./08_making_decisions/converternator/README.md) | Hard | Menu Choice of Imperial versus Metric conversions | 👍 |
+| ❌ | [Coordinate Plane](./08_making_decisions/coordinate_plane/README.md) | Easy | Determine quadrant of a point in 2D space | 👍 |
+| ❌ | [LED Series Resistor](./08_making_decisions/led_series_resistor/README.md) | Easy | Determine the series resistor of an LED | 👍 |
 
-#### Chapter 08 - Iterating
-
-| Finished | Challenge | Difficulty | Description | Unit Tests? |
-| :---: | --- | --- | --- | :---: |
-| ❌ | [Up and Down](./08_iterating/up_and_down/README.md) | Medium | Generate series using for-loops | ❌ |
-| ❌ | [Roll Em All](./08_iterating/roll_em_all/README.md) | Medium | Throwing Dice | ❌ |
-| ❌ | [Start to End](./08_iterating/start_to_end/README.md) | Medium | Summing Series | 👍 |
-| ❌ | [Child's Play](./08_iterating/childs_play/README.md) | Hard | Summation Game | ❌ |
-| ❌ | [Visual Rectangle](./08_iterating/visual_rectangle/README.md) | Hard | Drawing rectangle in the terminal | ❌ |
-| ❌ | [Higher / Lower](./08_iterating/higher_lower/README.md) | Medium | Build a higher /lower guessing game | ❌ |
-| ❌ | [Fibonacci Sequence](./08_iterating/fibonacci_sequence/README.md) | Medium | Generate the Fibonacci sequence | ❌ |
-| ❌ | [Greatest Common Factor](./08_iterating/greatest_common_factor/README.md) | Medium | Brute-force the gcf of two numbers | 👍 |
-| ❌ | [AppleCake](./08_iterating/apple_cake/README.md) | Medium | AppleCake word game | 👍 |
-
-#### Chapter 09 - Strings
+#### Chapter 09 - Iterating
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
-| ❌ | [Binary Nibble](./09_strings/binary_nibble/README.md) | Hard | Binary representation of decimal value | 👍 |
-| ❌ | [Reversal](./09_strings/reversal/README.md) | Easy | Reverse the characters of a string | 👍 |
-| ❌ | [Parentheses Checker](./09_strings/parentheses_checker/README.md) | Medium | Check line of code for matching parentheses | 👍 |
-| ❌ | [Palindrome](./09_strings/palindrome/README.md) | Medium | Determine if a word is a palindrome | 👍 |
-| ❌ | [Words Everywhere](./09_strings/words_everywhere/README.md) | Medium | Determine the number of words in a text | 👍 |
-| ❌ | [How Many Times](./09_strings/how_many_times/README.md) | Medium | Find the number of occurrences of a word | 👍 |
-| ❌ | [Replace Performance](./09_strings/replace_performance/README.md) | Hard | Replace substring in text | 👍 |
-| ❌ | [Pattern Builder](./09_strings/pattern_builder/README.md) | Easy | Shape builder app for console | ❌ |
-| ❌ | [Text Properties](./09_strings/text_properties/README.md) | Easy | Analyze string for character classes | 👍 |
-| ❌ | [Abbreviate This](./09_strings/abbreviate_this/README.md) | Medium | Abbreviate words in a string | 👍 |
-| ❌ | [Binary Coding](./09_strings/binary_coding/README.md) | Easy | Convert binary to decimal | 👍 |
-| ❌ | [Holo Gram](./09_strings/holo_gram/README.md) | Easy | Check if sentence contains all the letters of the alphabet | 👍 |
-| ❌ | [Not My Mail](./09_strings/not_my_mail/README.md) | Medium | Basic validation of email address | 👍 |
+| ❌ | [Up and Down](./09_iterating/up_and_down/README.md) | Medium | Generate series using for-loops | ❌ |
+| ❌ | [Roll Em All](./09_iterating/roll_em_all/README.md) | Medium | Throwing Dice | ❌ |
+| ❌ | [Start to End](./09_iterating/start_to_end/README.md) | Medium | Summing Series | 👍 |
+| ❌ | [Child's Play](./09_iterating/childs_play/README.md) | Hard | Summation Game | ❌ |
+| ❌ | [Visual Rectangle](./09_iterating/visual_rectangle/README.md) | Hard | Drawing rectangle in the terminal | ❌ |
+| ❌ | [Higher / Lower](./09_iterating/higher_lower/README.md) | Medium | Build a higher /lower guessing game | ❌ |
+| ❌ | [Fibonacci Sequence](./09_iterating/fibonacci_sequence/README.md) | Medium | Generate the Fibonacci sequence | ❌ |
+| ❌ | [Greatest Common Factor](./09_iterating/greatest_common_factor/README.md) | Medium | Brute-force the gcf of two numbers | 👍 |
+| ❌ | [AppleCake](./09_iterating/apple_cake/README.md) | Medium | AppleCake word game | 👍 |
 
-#### Chapter 10 - Arrays
+#### Chapter 10 - Strings
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
-| ❌ | [Multiples of Three](./10_arrays/multiples_of_three/README.md) | Easy | Generate array with multiples of three | 👍 |
-| ❌ | [The Sum of All Numbers](./10_arrays/the_sum_of_all_numbers/README.md) | Easy | Calculate sum of array of integers | 👍 |
-| ❌ | [String to Numbers](./10_arrays/strings_to_numbers/README.md) | Medium | Convert array of strings to array of integers | 👍 |
-| ❌ | [Turn the Tables](./10_arrays/turn_the_tables/README.md) | Medium | Multiply arrays with each other | 👍 |
-| ❌ | [Biggest of them All](./10_arrays/biggest_of_them_all/README.md) | Medium | Determine the biggest number in an array | 👍 |
-| ❌ | [Time for Change](./10_arrays/time_for_change/README.md) | Hard | A vending machine simulator | ❌ |
-| ❌ | [Join the Resistance](./10_arrays/join_the_resistance/README.md) | Medium | A resistor color band converter | ❌ |
-| ❌ | [Absolute Sum](./10_arrays/absolute_sum/README.md) | Easy | Calculate sum of array of absolute values | 👍 |
+| ❌ | [Binary Nibble](./10_strings/binary_nibble/README.md) | Hard | Binary representation of decimal value | 👍 |
+| ❌ | [Reversal](./10_strings/reversal/README.md) | Easy | Reverse the characters of a string | 👍 |
+| ❌ | [Parentheses Checker](./10_strings/parentheses_checker/README.md) | Medium | Check line of code for matching parentheses | 👍 |
+| ❌ | [Palindrome](./10_strings/palindrome/README.md) | Medium | Determine if a word is a palindrome | 👍 |
+| ❌ | [Words Everywhere](./10_strings/words_everywhere/README.md) | Medium | Determine the number of words in a text | 👍 |
+| ❌ | [How Many Times](./10_strings/how_many_times/README.md) | Medium | Find the number of occurrences of a word | 👍 |
+| ❌ | [Replace Performance](./10_strings/replace_performance/README.md) | Hard | Replace substring in text | 👍 |
+| ❌ | [Pattern Builder](./10_strings/pattern_builder/README.md) | Easy | Shape builder app for console | ❌ |
+| ❌ | [Text Properties](./10_strings/text_properties/README.md) | Easy | Analyze string for character classes | 👍 |
+| ❌ | [Abbreviate This](./10_strings/abbreviate_this/README.md) | Medium | Abbreviate words in a string | 👍 |
+| ❌ | [Binary Coding](./10_strings/binary_coding/README.md) | Easy | Convert binary to decimal | 👍 |
+| ❌ | [Holo Gram](./10_strings/holo_gram/README.md) | Easy | Check if sentence contains all the letters of the alphabet | 👍 |
+| ❌ | [Not My Mail](./10_strings/not_my_mail/README.md) | Medium | Basic validation of email address | 👍 |
+
+#### Chapter 11 - Arrays
+
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Multiples of Three](./11_arrays/multiples_of_three/README.md) | Easy | Generate array with multiples of three | 👍 |
+| ❌ | [The Sum of All Numbers](./11_arrays/the_sum_of_all_numbers/README.md) | Easy | Calculate sum of array of integers | 👍 |
+| ❌ | [String to Numbers](./11_arrays/strings_to_numbers/README.md) | Medium | Convert array of strings to array of integers | 👍 |
+| ❌ | [Turn the Tables](./11_arrays/turn_the_tables/README.md) | Medium | Multiply arrays with each other | 👍 |
+| ❌ | [Biggest of them All](./11_arrays/biggest_of_them_all/README.md) | Medium | Determine the biggest number in an array | 👍 |
+| ❌ | [Time for Change](./11_arrays/time_for_change/README.md) | Hard | A vending machine simulator | ❌ |
+| ❌ | [Join the Resistance](./11_arrays/join_the_resistance/README.md) | Medium | A resistor color band converter | ❌ |
+| ❌ | [Absolute Sum](./11_arrays/absolute_sum/README.md) | Easy | Calculate sum of array of absolute values | 👍 |
 
 #### Chapter 13 - Objects and Classes
 
@@ -244,3 +244,9 @@ If the challenge is solved correctly, all tests should pass.
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Point in Space](./13_objects_and_classes/point_in_space/README.md) | Medium | Create class of 2D Point | 👍 |
 | ❌ | [Round About](./13_objects_and_classes/round_about/README.md) | Medium | Create a class for a Circle | 👍 |
+
+#### Chapter 23 - Custom Classes
+
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Teach the Teacher](./23-defining-custom-classes/teach_the_teacher/README.md) | Medium | Store personal details of teacher | 👍 |

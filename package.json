@@ -1,0 +1,29 @@
+{
+  "name": "csharp-practical",
+  "version": "0.1.0",
+  "description": "Overview webpage of all the C# assignments",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BioBoost/csharp_practical"
+  },
+  "author": "Nico De Witte <nico.dewitte@vives.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BioBoost/csharp_practical/issues"
+  },
+  "homepage": "https://github.com/BioBoost/csharp_practical#readme",
+  "dependencies": {
+    "@mdi/font": "^4.7.95",
+    "vue": "^2.6.11",
+    "vuepress-theme-challenges": "0.0.1",
+    "vuetify": "^2.1.15"
+  }
+}
