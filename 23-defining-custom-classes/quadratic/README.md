@@ -29,6 +29,8 @@ Create a new class called `QuadraticEquation` that follows the following UML cla
 #################################
 ```
 
+The `ToString()` method should return the equation in the following format: `"12.3x^2 + 3x + 15 = 0".
+
 The `Solve()` method returns an object of the class `QuadraticSolution` which adheres to the following UML class diagram:
 
 ```text
