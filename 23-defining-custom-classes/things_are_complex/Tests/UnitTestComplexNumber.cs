@@ -95,10 +95,10 @@ namespace Tests
         [Fact]
         public void TestToString()
         {
-            Assert.Equal("3 + 5i", new ComplexNumber(3, 5).ToString());
-            Assert.Equal("3 - 5i", new ComplexNumber(3, -5).ToString());
-            Assert.Equal("-3 + 5i", new ComplexNumber(-3, 5).ToString());
-            Assert.Equal("-3 - 5i", new ComplexNumber(-3, -5).ToString());
+            Assert.Equal("(3 + 5i)", new ComplexNumber(3, 5).ToString());
+            Assert.Equal("(3 - 5i)", new ComplexNumber(3, -5).ToString());
+            Assert.Equal("(-3 + 5i)", new ComplexNumber(-3, 5).ToString());
+            Assert.Equal("(-3 - 5i)", new ComplexNumber(-3, -5).ToString());
         }
     }
 }
