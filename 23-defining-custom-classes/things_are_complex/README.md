@@ -26,10 +26,10 @@ Create a new class called `ComplexNumber` that follows the following UML class d
 # + Real(): double
 # + Imaginary(): double
 # + Magnitude(): double
-# + Add(value: Complex): Complex
-# + Subtract(value: Complex): Complex
-# + Multiply(value: Complex): Complex
-# + Divide(value: Complex): Complex
+# + Add(value: ComplexNumber): ComplexNumber
+# + Subtract(value: ComplexNumber): ComplexNumber
+# + Multiply(value: ComplexNumber): ComplexNumber
+# + Divide(value: ComplexNumber): ComplexNumber
 # + ToString(): string
 #################################
 ```
@@ -45,10 +45,10 @@ Supply the following methods for the class:
 * `Real(): double`: Returns the real part of the complex number
 * `Imaginary(): double`: Returns the imaginary part of the complex number
 * `Magnitude(): double`: Return the magnitude/modulus of the complex value
-* `Add(value: Complex): Complex`: Add the two complex values together and return the result
-* `Subtract(value: Complex): Complex`: Subtract value from the current complex number and return the result
-* `Multiply(value: Complex): Complex`: Multiply value with the current complex number and return the result
-* `Divide(value: Complex): Complex`: Divide the current complex number with value and return the result
+* `Add(value: ComplexNumber): ComplexNumber`: Add the two complex values together and return the result
+* `Subtract(value: ComplexNumber): ComplexNumber`: Subtract value from the current complex number and return the result
+* `Multiply(value: ComplexNumber): ComplexNumber`: Multiply value with the current complex number and return the result
+* `Divide(value: ComplexNumber): ComplexNumber`: Divide the current complex number with value and return the result
 * `ToString(): string`: Return a string representation of the complex number in the format `"(a + bi)"`. Make sure to override the `Object.ToString()` method
 
 An important note to keep in mind is that the methods `Add()`, `Subtract()`, `Multiply()` and`Divide()` should not alter the internal state of either the own object or the argument object. It should return the result in a new `ComplexNumber` object.
