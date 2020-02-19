@@ -251,3 +251,4 @@ If the challenge is solved correctly, all tests should pass.
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Teach the Teacher](./23-defining-custom-classes/teach_the_teacher/README.md) | Medium | Store personal details of teacher | 👍 |
 | ❌ | [Things are Complex](./23-defining-custom-classes/things_are_complex/README.md) | Hard | Math with Complex numbers | 👍 |
+| ❌ | [Quadratic](./23-defining-custom-classes/quadratic/README.md) | Medium | Solve a quadratic equation | ❌ |
