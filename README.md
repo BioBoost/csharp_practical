@@ -258,3 +258,4 @@ If the challenge is solved correctly, all tests should pass.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Count Me Up Scotty](./30-wpf/count-me-up-scotty/README.md) | Medium | Create a WPF App for Count Me Up Scotty | ❌ |
+| ❌ | [Complex Calculator](./30-wpf/complex-calculator/README.md) | Medium | Create a WPF App for Things Are Complex | ❌ |
