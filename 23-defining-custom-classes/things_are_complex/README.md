@@ -3,7 +3,7 @@ name: Things are Complex
 description: Math with Complex numbers
 details: ./23-defining-custom-classes/things_are_complex/README.md
 difficulty: Hard
-solution: false
+solution: true
 unitTests: true
 keywords: classes methods operators
 solved: false
@@ -60,3 +60,7 @@ Feel free to create a small demo app that demonstrates the usage of the ComplexN
 This project has accompanying unit tests. See [xUnit Tests](/README.md#xunit-tests) on how to run them.
 
 Do note that the unit tests will not run without errors until you created the class and the required methods. You could always put some of the tests in comments. Just make sure to uncomment them once the task at hand is supposedly finished.
+
+## Solution
+
+The solution can be found as a second project in the Visual Studio Solution under the name `Solution`.
