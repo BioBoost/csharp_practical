@@ -1,0 +1,7 @@
+﻿Hello World
+Immutable
+Scope Resolution Operator
+Dude
+CSharp is Ok
+JavaScript is Fun
+C plus plus is powerful
