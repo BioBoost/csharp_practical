@@ -12,32 +12,41 @@ All challenges contain at least a `README.md` describing the task at hand. Most 
 
 To get started you will first need to get a copy of this repository. Follow the steps below to get your own personal copy. This only needs to be done once.
 
-1. Get the GitHub classroom invitation link from Toledo
-2. Accept the assignment
-3. Wait for your own personal copy to be created (can take up to several minutes)
-4. Open the GitHub page of your repository
-5. Copy the ssh clone-url (green button) that looks like `git@github.com:vives-introduction-to-programming-2019/csharp_practical-<username>.git`
-6. Traverse to a local directory on your system where you wish to clone the repo using Windows Explorer. Open PowerShell in that location by typing `powershell` in the location bar as shown in the screenshot below.
+1. Get the GitHub classroom invitation link from Toledo.
+2. The first time you will need to allow GitHub Classroom access to your GitHub account. Click the `Authorize github` button.
+
+![Authorize GitHub Classroom](./img/authorize-github-classroom.png)
+
+3. Make sure to select your name from the roster. If your name is not present yet then you can click the `Skip to the next step` for now. But please inform your teacher in that case.
+
+![Select name from Roster](./img/classroom-roster.png)
+
+4. Now you can accept the assignment and wait for your own personal copy to be created (can take up to several minutes - please be patient)
+5. Open the GitHub page of your repository
+6. Copy the ssh clone-url (green button) that looks like `git@github.com:vives-introduction-to-programming-2020/csharp-practical-<username>.git`
+7. Traverse to a local directory on your system where you wish to clone the repo using Windows Explorer. Open PowerShell in that location holding down <kbd>Shift</kbd> and right clicking the directory. Next select `Open PowerShell window here` from the context menu.
 
     *Please don't choose a destination directory that is nested very deeply. The structure of this repo introduces quite a lot of subdirectories and might give problems towards maximum path length in Windows.*
 
     ![Opening PowerShell in directory](./img/powershell.png)
 
-7. Issue the `git clone` command followed by the url you copied.
+8. Issue the `git clone` command followed by the url you copied (right click or <kbd>Ctrl</kbd> + <kbd>V</kbd> to paste).
 
-```shell
+```bash
 git clone <place-ssh-url-here>
 ```
 
-You should get the following output:
+You should get a similar output:
 
 ```text
-Cloning into 'csharp-practical-BioBoost'...
-Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
-remote: Enumerating objects: 185, done.
-remote: Compressing objects: 100% (109/109), done.
-Receiving objects: 100% (185/185), 128.22 KiB | 625.00 KiB/s, done.
-Resolving deltas: 100% (57/57), done.
+Cloning into 'csharp-practical-NicoDeWitte'...
+Warning: Permanently added the RSA host key for IP address '140.82.121.4' to the list of known hosts.
+remote: Enumerating objects: 1241, done.
+remote: Counting objects: 100% (1241/1241), done.
+remote: Compressing objects: 100% (625/625), done.
+remote: Total 1241 (delta 546), reused 1241 (delta 546), pack-reused 0
+Receiving objects: 100% (1241/1241), 602.71 KiB | 1.77 MiB/s, done.
+Resolving deltas: 100% (546/546), done.
 ```
 
 Now you should have your local copy of the repository.
@@ -48,9 +57,9 @@ All git commands in other sections should always be executed inside of the proje
 
 Changes can be committed and pushed back to GitHub using the terminal.
 
-Traverse to your local `csharp-practical-<username>` directory and type `powershell` in the location bar as done previously in [section Starting as a Student](#starting-as-a-student).
+Traverse to your local `csharp-practical-<username>` directory and open a PowerShell window by holding down <kbd>Shift</kbd> and right clicking the directory. Next select `Open PowerShell window here` from the context menu, as done previously in [section Starting as a Student](#starting-as-a-student).
 
-1. Add all changed files: `git add .`
+1. Add all changed files using the command: `git add .`
 2. Commit the files and add a message: `git commit -m "My message goes here"`
 3. Push your changes to GitHub: `git push origin master`
 
@@ -60,7 +69,7 @@ Traverse to your local `csharp-practical-<username>` directory and type `powersh
 
 You can also navigate to your GitHub page of this repo and check if all went well.
 
-Make it a habit of committing regularly. At least after solving each assignment.
+Make it a habit of committing and pushing regularly. **At least after solving each assignment.**
 
 Also checkout the [shortened version of these steps for everyday use](./short_instructions.md).
 
@@ -68,17 +77,17 @@ Also checkout the [shortened version of these steps for everyday use](./short_in
 
 To pull the latest updates you will first need to add the original repo on which this one was based. This only needs to be done once for every cloned instance:
 
-```shell
-git remote add base git@github.com:vives-introduction-to-programming-2019/csharp_practical.git
+```bash
+git remote add base git@github.com:vives-introduction-to-programming-2020/csharp_practical.git
 ```
 
 `base` is the name of remote repo. Now you should see two remotes when issuing the command `git remote -v`. For example:
 
 ```text
-base     git@github.com:vives-introduction-to-programming-2019/csharp_practical.git (fetch)
-base     git@github.com:vives-introduction-to-programming-2019/csharp_practical.git (push)
-origin  git@github.com:vives-introduction-to-programming-2019/csharp-practical-BioBoost.git (fetch)
-origin  git@github.com:vives-introduction-to-programming-2019/csharp-practical-BioBoost.git (push)
+base     git@github.com:vives-introduction-to-programming-2020/csharp_practical.git (fetch)
+base     git@github.com:vives-introduction-to-programming-2020/csharp_practical.git (push)
+origin  git@github.com:vives-introduction-to-programming-2020/csharp-practical-BioBoost.git (fetch)
+origin  git@github.com:vives-introduction-to-programming-2020/csharp-practical-BioBoost.git (push)
 ```
 
 Now every time you wish to pull updates you need to follow these steps:
