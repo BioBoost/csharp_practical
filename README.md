@@ -24,7 +24,7 @@ To get started you will first need to get a copy of this repository. Follow the 
 4. Now you can accept the assignment and wait for your own personal copy to be created (can take up to several minutes - please be patient)
 5. Open the GitHub page of your repository
 6. Copy the ssh clone-url (green button) that looks like `git@github.com:vives-introduction-to-programming-2020/csharp-practical-<username>.git`
-7. Traverse to a local directory on your system where you wish to clone the repo using Windows Explorer. Open PowerShell in that location holding down <kbd>Shift</kbd> and right clicking the directory. Next select `Open PowerShell window here` from the context menu.
+7. Traverse to a local directory on your system where you wish to clone the repo using Windows Explorer. Open PowerShell in that location by holding down <kbd>Shift</kbd> and right clicking the directory. Next select `Open PowerShell window here` from the context menu.
 
     *Please don't choose a destination directory that is nested very deeply. The structure of this repo introduces quite a lot of subdirectories and might give problems towards maximum path length in Windows.*
 
