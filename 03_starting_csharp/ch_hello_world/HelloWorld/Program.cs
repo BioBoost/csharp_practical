@@ -8,6 +8,7 @@ namespace HelloWorld
         {
             // Make it output Hello World
             Console.WriteLine("Hello World from Nico De Witte");
+            Console.WriteLine("I am a teacher at VIVES ....");
         }
     }
 }
