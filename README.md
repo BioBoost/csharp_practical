@@ -193,6 +193,7 @@ If the challenge is solved correctly, all tests should pass.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Hail C Sharp](./07_methods/hail_c_sharp/README.md) | Easy | Call a method that outputs statements | ❌ |
+| ❌ | [Hello Mister Roboto](./07_methods/hello_mister_roboto/README.md) | Easy | Create a method that outputs a greeting | ❌ |
 
 #### Chapter 08 - Making Decisions
 
