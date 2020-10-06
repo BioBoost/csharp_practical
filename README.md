@@ -188,6 +188,15 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Student ID](./06_getting_user_data/student_id/README.md) | Medium | Generate student email and ID | 👍 |
 | ❌ | [Time Machine](./06_getting_user_data/time_machine/README.md) | Hard | Add hours and minutes to clock | 👍 |
 
+#### Chapter 07 - Methods
+
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Hail C Sharp](./07_methods/hail_c_sharp/README.md) | Easy | Call a method that outputs statements | ❌ |
+| ❌ | [Hello Mister Roboto](./07_methods/hello_mister_roboto/README.md) | Easy | Create a method that outputs a greeting | ❌ |
+| ❌ | [Toss a Die to Your Witcher](./07_methods/toss_a_die_to_your_witcher/README.md) | Easy | Call die throwing method and store result | ❌ |
+| ❌ | [Sum and Difference](./07_methods/sum_and_difference/README.md) | Easy | Call and create methods for Addition and Subtraction | ❌ |
+
 #### Chapter 08 - Making Decisions
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
