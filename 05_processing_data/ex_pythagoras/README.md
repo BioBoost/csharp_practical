@@ -1,7 +1,3 @@
----
-useMath: true
----
-
 # Pythagoras
 
 Search the Internet for the Pythagorean theorem. It is a mathematical relation between the lengths of the sides of right hand triangles.
