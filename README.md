@@ -153,8 +153,8 @@ If the challenge is solved correctly, all tests should pass.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Need a Break](./03_starting_csharp/ex_need_a_break/README.md) | Medium | Find and fix two small syntax errors | ❌ |
-| ✔️ | [Hello World](./03_starting_csharp/ch_hello_world/README.md) | Easy | Print a Hello World message | ❌ |
-| ✔️ | [Basic Syntax Error](./03_starting_csharp/ch_basic_syntax_error/README.md) | Easy | Find and fix a small syntax error | ❌ |
+| ❌ | [Hello World](./03_starting_csharp/ch_hello_world/README.md) | Easy | Print a Hello World message | ❌ |
+| ❌ | [Basic Syntax Error](./03_starting_csharp/ch_basic_syntax_error/README.md) | Easy | Find and fix a small syntax error | ❌ |
 | ❌ | [Developed By](./03_starting_csharp/ch_developed_by/README.md) | Easy | Print message and your name | ❌ |
 | ❌ | [Java Programmer](./03_starting_csharp/ch_java_programmer/README.md) | Easy | Fix mistake of a Java programmer | ❌ |
 | ❌ | [My First App](./03_starting_csharp/ch_my_first_app/README.md) | Medium | Create a new VS Project | ❌ |
