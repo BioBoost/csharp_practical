@@ -13,7 +13,7 @@ namespace CSharpLand
             Console.WriteLine("The Deathanator!!!");
 
             // TODO: Initialize the minimum height to 1m and 30cm
-            double minimumPersonHeight = 1.3;
+            double minimumPersonHeight = 0;
 
             Console.WriteLine("To ride the rollercoast, you need to be at least "
                 + minimumPersonHeight + "m tall.");
