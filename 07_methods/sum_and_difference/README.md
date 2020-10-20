@@ -19,4 +19,3 @@ Their sum: 40
 
 Their difference: 8
 ```
-
