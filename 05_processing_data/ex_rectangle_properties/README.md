@@ -8,7 +8,7 @@ Expected output:
 
 ```text
 Rectangle: 3cm by 8cm
-The rectangle has an area of 22sq centimeters.
+The rectangle has an area of 24sq centimeters.
 The rectangle has an circumference of 22 centimeters.
 ```
 

@@ -6,7 +6,7 @@ namespace BasicSyntaxError
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Nice, you just fixed the application.")
+            Console.WriteLine("Nice, you just fixed the application.");
         }
     }
 }
