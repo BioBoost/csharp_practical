@@ -86,8 +86,8 @@ git remote add base git@github.com:vives-introduction-to-programming-2020/csharp
 ```text
 base     git@github.com:vives-introduction-to-programming-2020/csharp_practical.git (fetch)
 base     git@github.com:vives-introduction-to-programming-2020/csharp_practical.git (push)
-origin  git@github.com:vives-introduction-to-programming-2020/csharp-practical-BioBoost.git (fetch)
-origin  git@github.com:vives-introduction-to-programming-2020/csharp-practical-BioBoost.git (push)
+origin  git@github.com:vives-introduction-to-programming-2020/csharp-practical-NicoDeWitte.git (fetch)
+origin  git@github.com:vives-introduction-to-programming-2020/csharp-practical-NicoDeWitte.git (push)
 ```
 
 Now every time you wish to pull updates you need to follow these steps:
