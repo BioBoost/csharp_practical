@@ -196,6 +196,7 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Hello Mister Roboto](./07_methods/hello_mister_roboto/README.md) | Easy | Create a method that outputs a greeting | ❌ |
 | ❌ | [Toss a Die to Your Witcher](./07_methods/toss_a_die_to_your_witcher/README.md) | Easy | Call die throwing method and store result | ❌ |
 | ❌ | [Sum and Difference](./07_methods/sum_and_difference/README.md) | Easy | Call and create methods for Addition and Subtraction | ❌ |
+| ❌ | [La Resistance](./07_methods/la_resistance/README.md) | Medium | Solve resistor networks | ❌ |
 
 #### Chapter 08 - Making Decisions
 
