@@ -29,3 +29,11 @@ dotnet sln $PROJECT.sln add $PROJECT/$PROJECT.csproj Tests/Tests.csproj
 dotnet add Tests/Tests.csproj reference $PROJECT/$PROJECT.csproj
 touch README.md
 ```
+
+## Updating .NET Framework
+
+Using the power of Linux of course:
+
+````bash
+find . -name "*.csproj" -exec sed -i 's/netcoreapp2/netcoreapp3/' '{}' \;
+```
