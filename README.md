@@ -123,9 +123,24 @@ If the challenge is solved correctly, all tests should pass.
 
 ![Succeeding Tests](./img/succeeding_tests.png)
 
-### Introduction to Programming
+### xUnit Framework not Found
 
-#### Chapter 01 - Introduction to Computer Programming
+If you get an error stating the the xUnit Framework cannot be found, you should check the NuGet package manager sources.
+
+Traverse to `Tools => NuGet Package Manager => Package Manager Settings`. Next select the `Package Sources` entry as option (left side). It should contain the `nuget.org` package source as shown in the next screenshot:
+
+![nuget.org source](./img/nuget_package_source.png)
+
+If it does not exists, add it with the following settings:
+
+* **Name:** `nuget.org`
+* **Source:** `https://api.nuget.org/v3/index.json`
+
+You may need to restart Visual Studio.
+
+## Introduction to Programming
+
+### Chapter 01 - Introduction to Computer Programming
 
 | Finished | Challenge | Difficulty | Description |
 | :---: | --- | --- | --- |
@@ -134,7 +149,7 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Processor Architecture](./01_introduction/ch_processor_architecture/README.md) | Medium | Search the Internet for the meaning of a processor architecture. |
 | ❌ | [Biggest Number in a List](./01_introduction/ch_biggest_number_in_a_list/README.md) | Hard | Document the process of finding the biggest number in a list. |
 
-#### Chapter 02 - Basic Building Blocks
+### Chapter 02 - Basic Building Blocks
 
 | Finished | Challenge | Difficulty | Description |
 | :---: | --- | --- | --- |
@@ -148,7 +163,7 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Student Grader](./02_building_blocks/ch_student_grader/README.md) | Medium | Output message to user based on his grade |
 | ❌ | [Sum of Numbers](./02_building_blocks/ch_sum_of_numbers/README.md) | Hard | Determine the sum of a list of numbers |
 
-#### Chapter 03 - Starting in C#
+### Chapter 03 - Starting in C#
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
@@ -160,7 +175,7 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [My First App](./03_starting_csharp/ch_my_first_app/README.md) | Medium | Create a new VS Project | ❌ |
 | ❌ | [Personal Details](./03_starting_csharp/ch_personal_details/README.md) | Medium | Print out personal details | ❌ |
 
-#### Chapter 04 - Storing Data
+### Chapter 04 - Storing Data
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
@@ -169,7 +184,7 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Marco Polo](./04_storing_data/ex_marco_polo/README.md) | Medium | Output some personal details about Marco Polo | 👍 |
 | ❌ | [Programming Bugs](./04_storing_data/ex_programming_bugs/README.md) | Hard | Output authored message of the day | 👍 |
 
-#### Chapter 05 - Processing Data
+### Chapter 05 - Processing Data
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
@@ -181,14 +196,14 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Pythagoras](./05_processing_data/ex_pythagoras/README.md) | Easy | Implement the Pythagorean theorem | 👍 |
 | ❌ | [Circle Properties](./05_processing_data/ch_circle_properties/README.md) | Hard | Show properties of a circle | ❌ |
 
-#### Chapter 06 - Getting User Data
+### Chapter 06 - Getting User Data
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Student ID](./06_getting_user_data/student_id/README.md) | Medium | Generate student email and ID | 👍 |
 | ❌ | [Time Machine](./06_getting_user_data/time_machine/README.md) | Hard | Add hours and minutes to clock | 👍 |
 
-#### Chapter 07 - Methods
+### Chapter 07 - Methods
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
@@ -199,7 +214,7 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [La Resistance](./07_methods/la_resistance/README.md) | Medium | Solve resistor networks | ❌ |
 | ❌ | [Its all About Timing](./07_methods/its_all_about_timing/README.md) | Hard | Converts seconds to Timestamp | ❌ |
 
-#### Chapter 08 - Making Decisions
+### Chapter 08 - Making Decisions
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
@@ -213,7 +228,7 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Coordinate Plane](./08_making_decisions/coordinate_plane/README.md) | Easy | Determine quadrant of a point in 2D space | 👍 |
 | ❌ | [LED Series Resistor](./08_making_decisions/led_series_resistor/README.md) | Easy | Determine the series resistor of an LED | 👍 |
 
-#### Chapter 09 - Iterating
+### Chapter 09 - Iterating
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
@@ -227,7 +242,7 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Greatest Common Factor](./09_iterating/greatest_common_factor/README.md) | Medium | Brute-force the gcf of two numbers | 👍 |
 | ❌ | [AppleCake](./09_iterating/apple_cake/README.md) | Medium | AppleCake word game | 👍 |
 
-#### Chapter 10 - Strings
+### Chapter 10 - Strings
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
@@ -245,7 +260,7 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Holo Gram](./10_strings/holo_gram/README.md) | Easy | Check if sentence contains all the letters of the alphabet | 👍 |
 | ❌ | [Not My Mail](./10_strings/not_my_mail/README.md) | Medium | Basic validation of email address | 👍 |
 
-#### Chapter 11 - Arrays
+### Chapter 11 - Arrays
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
@@ -258,14 +273,14 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Join the Resistance](./11_arrays/join_the_resistance/README.md) | Medium | A resistor color band converter | ❌ |
 | ❌ | [Absolute Sum](./11_arrays/absolute_sum/README.md) | Easy | Calculate sum of array of absolute values | 👍 |
 
-#### Chapter 13 - Objects and Classes
+### Chapter 13 - Objects and Classes
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Point in Space](./13_objects_and_classes/point_in_space/README.md) | Medium | Create class of 2D Point | 👍 |
 | ❌ | [Round About](./13_objects_and_classes/round_about/README.md) | Medium | Create a class for a Circle | 👍 |
 
-#### Chapter 23 - Custom Classes
+### Chapter 23 - Custom Classes
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
@@ -274,7 +289,7 @@ If the challenge is solved correctly, all tests should pass.
 | ❌ | [Quadratic](./23-defining-custom-classes/quadratic/README.md) | Medium | Solve a quadratic equation | ❌ |
 | ❌ | [Vector from Start to End](./23-defining-custom-classes/vector_from_start_to_end/README.md) | Medium | Create vectors and calculate resulting total vector | 👍 |
 
-#### Chapter 3- WPF
+### Chapter 3- WPF
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
