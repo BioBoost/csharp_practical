@@ -34,6 +34,14 @@ touch README.md
 
 Using the power of Linux of course:
 
-````bash
+```bash
 find . -name "*.csproj" -exec sed -i 's/netcoreapp2/netcoreapp3/' '{}' \;
+```
+
+Or using PowerShell:
+
+```powershell
+Get-ChildItem -Path .\ -Filter *.csproj -Recurse -File -Name| ForEach-Object {
+  (Get-Content $_).replace('netcoreapp2', 'netcoreapp3') | Set-Content $_
+}
 ```
