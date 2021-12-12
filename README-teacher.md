@@ -31,6 +31,21 @@ dotnet add Tests/Tests.csproj reference $PROJECT/$PROJECT.csproj
 touch README.md
 ```
 
+or when using GitHub actions and automatic test runs:
+
+```powershell
+$PROJECT="BiggestOfThemAll"
+
+mkdir $PROJECT ; cd $PROJECT
+dotnet new console --name $PROJECT --language c# --framework netcoreapp3.1
+dotnet new xunit --name Tests --language c# --framework netcoreapp3.1
+dotnet new sln --name $PROJECT
+dotnet sln $PROJECT.sln add $PROJECT/$PROJECT.csproj Tests/Tests.csproj
+dotnet add Tests/Tests.csproj reference $PROJECT/$PROJECT.csproj
+dotnet add Tests/Tests.csproj package LiquidTestReports.Markdown
+touch README.md
+```
+
 ## Updating .NET Framework
 
 Using the power of Linux of course:
