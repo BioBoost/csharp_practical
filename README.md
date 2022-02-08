@@ -272,6 +272,7 @@ You may need to restart Visual Studio.
 | ❌ | [Time for Change](./11_arrays/time_for_change/README.md) | Hard | A vending machine simulator | ❌ |
 | ❌ | [Join the Resistance](./11_arrays/join_the_resistance/README.md) | Medium | A resistor color band converter | ❌ |
 | ❌ | [Absolute Sum](./11_arrays/absolute_sum/README.md) | Easy | Calculate sum of array of absolute values | 👍 |
+| ❌ | [Parallel Arrays](./11_arrays/parallel-arrays/README.md) | Medium | Working with multiple arrays | 👍 |
 
 ### Chapter 13 - Objects and Classes
 
