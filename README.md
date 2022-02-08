@@ -289,6 +289,7 @@ You may need to restart Visual Studio.
 | ❌ | [Things are Complex](./23-defining-custom-classes/things_are_complex/README.md) | Hard | Math with Complex numbers | 👍 |
 | ❌ | [Quadratic](./23-defining-custom-classes/quadratic/README.md) | Medium | Solve a quadratic equation | ❌ |
 | ❌ | [Vector from Start to End](./23-defining-custom-classes/vector_from_start_to_end/README.md) | Medium | Create vectors and calculate resulting total vector | 👍 |
+| ❌ | [Kings of Nothing](./23-defining-custom-classes/kings_of_nothing/README.md) | Medium | Implement a player class for a game | 👍 |
 
 ### Chapter 24 - Getters, Setters and Properties
 
