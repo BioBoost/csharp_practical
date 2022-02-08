@@ -8,42 +8,25 @@ namespace ParallelArrays
     {
         public static int CountDifferentFrom(int[] elements, int value)
         {
-            // TODO - Tel hoeveel getallen verschillen in elements van de waarde 'value'
+            // TODO - Count how many elements differ from 'value'
 
-
-
-            // TODO - Return het resultaat
             return -1;
         }
 
         public static int[] SumByElements(int[] first, int[] second)
         {
-            // TODO - Maak een nieuwe array aan ter grootte van first of second
-            // Je mag er hier van uit gaan dat beide array dezelfde grootte hebben.
+            // TODO - Return new array that contains the sum of the elements in
+            // 'first' and 'second'.
 
-
-
-            // TODO - Maak de element-gewijze som van first en second en plaats het
-            // resultaat op dezelfde index in de nieuwe array
-
-
-
-            // TODO - Return de resulterende array
             return null;
         }
 
         public static int[] DoubleInSize(int[] numbers)
         {
-            // TODO - Maak een nieuwe array die dubbel zo groot is als `numbers`.
+            // TODO - Return an array twice the size of numbers with
+            // the data of 'numbers' stored in front. Initialize the other
+            // elements to '0'
 
-
-
-            // TODO - Kopieerd de getallen van `numbers` naar de nieuwe array
-            // (startend vanaf het begin)
-
-
-
-            // TODO - Return de nieuwe array als resultaat
             return null;
         }
     }
