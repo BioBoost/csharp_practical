@@ -290,7 +290,13 @@ You may need to restart Visual Studio.
 | ❌ | [Quadratic](./23-defining-custom-classes/quadratic/README.md) | Medium | Solve a quadratic equation | ❌ |
 | ❌ | [Vector from Start to End](./23-defining-custom-classes/vector_from_start_to_end/README.md) | Medium | Create vectors and calculate resulting total vector | 👍 |
 
-### Chapter 3- WPF
+### Chapter 24 - Getters, Setters and Properties
+
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Super String Theory](./24-getters-setters-properties/super_string_theory/README.md) | Hard | Add properties and implement string methods | 👍 |
+
+### Chapter 30 - WPF
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
