@@ -290,6 +290,7 @@ You may need to restart Visual Studio.
 | ❌ | [Quadratic](./23-defining-custom-classes/quadratic/README.md) | Medium | Solve a quadratic equation | ❌ |
 | ❌ | [Vector from Start to End](./23-defining-custom-classes/vector_from_start_to_end/README.md) | Medium | Create vectors and calculate resulting total vector | 👍 |
 | ❌ | [Kings of Nothing](./23-defining-custom-classes/kings_of_nothing/README.md) | Medium | Implement a player class for a game | 👍 |
+| ❌ | [The Paint Factory](./23-defining-custom-classes/the_paint_factory/README.md) | Medium | Calculate how much paint is required for complex surfaces | 👍 |
 
 ### Chapter 24 - Getters, Setters and Properties
 
