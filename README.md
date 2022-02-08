@@ -242,6 +242,7 @@ You may need to restart Visual Studio.
 | ❌ | [Greatest Common Factor](./09_iterating/greatest_common_factor/README.md) | Medium | Brute-force the gcf of two numbers | 👍 |
 | ❌ | [AppleCake](./09_iterating/apple_cake/README.md) | Medium | AppleCake word game | 👍 |
 | ❌ | [Series of Squares](./09_iterating/series_of_squares/README.md) | Medium | Check for formula for a series of squares | 👍 |
+| ❌ | [Number Manipulator](./09_iterating/number_manipulator/README.md) | Medium | Manipulate numbers digit by digit | 👍 |
 
 ### Chapter 10 - Strings
 
