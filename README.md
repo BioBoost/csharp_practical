@@ -241,6 +241,7 @@ You may need to restart Visual Studio.
 | ❌ | [Fibonacci Sequence](./09_iterating/fibonacci_sequence/README.md) | Medium | Generate the Fibonacci sequence | ❌ |
 | ❌ | [Greatest Common Factor](./09_iterating/greatest_common_factor/README.md) | Medium | Brute-force the gcf of two numbers | 👍 |
 | ❌ | [AppleCake](./09_iterating/apple_cake/README.md) | Medium | AppleCake word game | 👍 |
+| ❌ | [Series of Squares](./09_iterating/series_of_squares/README.md) | Medium | Check for formula for a series of squares | 👍 |
 
 ### Chapter 10 - Strings
 
