@@ -298,7 +298,7 @@ You may need to restart Visual Studio.
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
-| ❌ | [Super String Theory](./24-getters-setters-properties/super_string_theory/README.md) | Hard | Add properties and implement string methods | 👍 |
+| ❌ | [Super String Theory](./24-getters-setters-properties/super_string_theory/README.md) | Medium | Add properties and implement string methods | 👍 |
 
 ### Chapter 30 - WPF
 
