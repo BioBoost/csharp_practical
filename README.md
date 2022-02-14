@@ -299,6 +299,7 @@ You may need to restart Visual Studio.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Super String Theory](./24-getters-setters-properties/super_string_theory/README.md) | Medium | Add properties and implement string methods | 👍 |
+| ❌ | [Third Rock from the Sun](./24-getters-setters-properties/third_rock_from_the_sun/README.md) | Hard | Calculate properties of the Earth (sphere) | 👍 |
 
 ### Chapter 30 - WPF
 
