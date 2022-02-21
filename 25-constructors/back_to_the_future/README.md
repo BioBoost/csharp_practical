@@ -15,7 +15,7 @@ Implement the following functionality in a class called `TimeStamp`:
 
 * A `ToString()` method that returns the timestamp in the format `14h 13m 12s`.
 
-* Three methods `AddSeconds`, `AddMinutes` and `AddSeconds` for adding `Seconds`, `Minutes` and `Hours`.
+* Three methods `AddSeconds`, `AddMinutes` and `AddHours` for adding `Seconds`, `Minutes` and `Hours`.
   * When the supplied value is negative, no action should be taken.
   * The resulting timestamp should again be normalized and not contain any overflowing values.
 
