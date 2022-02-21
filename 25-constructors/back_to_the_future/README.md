@@ -11,7 +11,7 @@ Implement the following functionality in a class called `TimeStamp`:
 
 * Constructors:
   * Supply a default constructor that takes no arguments. Set all properties to `0` in this case.
-  * Supply a constructor that takes all three values (`Seconds`, `Minutes` and `Hours`). Make sure the resulting timestamp is again normalized.
+  * Supply a constructor that takes all three values (`Hours`, `Minutes` and `Seconds`). Make sure the resulting timestamp is again normalized.
 
 * A `ToString()` method that returns the timestamp in the format `14h 13m 12s`.
 
