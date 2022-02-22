@@ -306,6 +306,7 @@ You may need to restart Visual Studio.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Back to the Future](./25-constructors/back_to_the_future/README.md) | Medium | Create a TimeStamp class | 👍 |
+| ❌ | [I Can Hear Colors](./25-constructors/i_can_hear_colors/README.md) | Easy | Refactor the Color class with properties and constructors | 👍 |
 
 ### Chapter 30 - WPF
 
