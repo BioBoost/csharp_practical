@@ -308,6 +308,12 @@ You may need to restart Visual Studio.
 | ❌ | [Back to the Future](./25-constructors/back_to_the_future/README.md) | Medium | Create a TimeStamp class | 👍 |
 | ❌ | [I Can Hear Colors](./25-constructors/i_can_hear_colors/README.md) | Easy | Refactor the Color class with properties and constructors | 👍 |
 
+### Chapter 27 - Interfaces
+
+| Finished | Challenge | Difficulty | Description | Unit Tests? |
+| :---: | --- | --- | --- | :---: |
+| ❌ | [Generator of Numbers](./27-interfaces/generator-of-numbers/README.md) | Medium | Create an interface for number generators | ❌ |
+
 ### Chapter 30 - WPF
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
