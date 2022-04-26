@@ -313,6 +313,7 @@ You may need to restart Visual Studio.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Generator of Numbers](./27-interfaces/generator-of-numbers/README.md) | Medium | Create an interface for number generators | ❌ |
+| ❌ | [Total Surface](./27-interfaces/total-surface/README.md) | Medium | Fix tightly coupled classes | ❌ |
 
 ### Chapter 30 - WPF
 
