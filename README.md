@@ -78,14 +78,14 @@ Also checkout the [shortened version of these steps for everyday use](./short_in
 To pull the latest updates you will first need to add the original repo on which this one was based. This only needs to be done once for every cloned instance:
 
 ```bash
-git remote add base git@github.com:BioBoost/csharp_practical.git
+git remote add base git@github.com:vives-intro-to-programming-2022-2023/csharp-practical.git
 ```
 
 `base` is the name of remote repo. Now you should see two remotes when issuing the command `git remote -v`. For example:
 
 ```text
-base     git@github.com:BioBoost/csharp_practical.git (fetch)
-base     git@github.com:BioBoost/csharp_practical.git (push)
+base     git@github.com:vives-intro-to-programming-2022-2023/csharp-practical.git (fetch)
+base     git@github.com:vives-intro-to-programming-2022-2023/csharp-practical.git (push)
 origin  git@github.com:vives-intro-to-programming-2022-2023/csharp-practical-NicoDeWitte.git (fetch)
 origin  git@github.com:vives-intro-to-programming-2022-2023/csharp-practical-NicoDeWitte.git (push)
 ```
