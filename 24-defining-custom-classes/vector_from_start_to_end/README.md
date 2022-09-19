@@ -26,7 +26,7 @@ Create a new class called `Vector` that follows the following UML class diagram:
 # - y: double
 #################################
 # + Vector()
-# + Vector(x: double, x: double)
+# + Vector(x: double, y: double)
 # + X(): double
 # + Y(): double
 # + Magnitude(): double
@@ -38,8 +38,8 @@ The `Vector` class represents a mathematical vector rooted in the origin of the 
 
 Supply the following methods for the class:
 
-* `Vector()`: The default constructor for a vector that initialized both the `x` and `x` part to `0`.
-* `Vector(x: double, x: double)`: An initialization constructor that allows the user to create a vector with the given `x` and `y` coordinate.
+* `Vector()`: The default constructor for a vector that initialized both the `x` and `y` part to `0`.
+* `Vector(x: double, y: double)`: An initialization constructor that allows the user to create a vector with the given `x` and `y` coordinate.
 * `X(): double`: Returns the x coordinate of the vector
 * `Y(): double`: Returns the y coordinate of the vector
 * `Magnitude(): double`: Return the magnitude/length of the vector
