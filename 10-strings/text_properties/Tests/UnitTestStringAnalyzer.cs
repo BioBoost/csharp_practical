@@ -85,8 +85,8 @@ namespace Tests
             Assert.Equal(0, analyzer.NumberOfWhitespaceCharacters("QWRTYPSDFGHJKLZXCVBNM"));
             Assert.Equal(0, analyzer.NumberOfWhitespaceCharacters("1234567890"));
             Assert.Equal(0, analyzer.NumberOfWhitespaceCharacters("!@#$%^&*()_+"));
-            Assert.Equal(9, analyzer.NumberOfWhitespaceCharacters(" \n \t\n\t\r\n\r\t "));
-            Assert.Equal(5, analyzer.NumberOfWhitespaceCharacters("euioa"));
+            Assert.Equal(11, analyzer.NumberOfWhitespaceCharacters(" \n \t\n\t\r\n\r\t "));
+            Assert.Equal(0, analyzer.NumberOfWhitespaceCharacters("euioa"));
             Assert.Equal(0, analyzer.NumberOfWhitespaceCharacters("EUIOA"));
             Assert.Equal(4, analyzer.NumberOfWhitespaceCharacters("Ah For Crying Out Loud"));
             Assert.Equal(6, analyzer.NumberOfWhitespaceCharacters("99 bottles of beer on the wall"));
