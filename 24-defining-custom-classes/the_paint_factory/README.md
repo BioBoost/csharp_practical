@@ -30,7 +30,7 @@ We are painting the following area:
 This results in a total area of 48 square meters.
 
 Let us put 2 coats of paint on the walls.
-For this we will need 8 liters of paint.
+For this we will need 9 liters of paint.
 ```
 
 ## Unit Tests
