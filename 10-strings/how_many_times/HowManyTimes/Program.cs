@@ -7,7 +7,7 @@ namespace HowManyTimes
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to How Many Times ...");
-            Console.WriteLine("This app can determine the number of occurences of a word inside a text.");
+            Console.WriteLine("This app can determine the number of occurrences of a word inside a text.");
             Console.WriteLine("Please enter a text:");
             string text = Console.ReadLine();
             Console.Write("Please enter a word to search for: ");

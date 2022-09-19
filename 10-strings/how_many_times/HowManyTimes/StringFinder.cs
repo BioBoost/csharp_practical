@@ -8,12 +8,12 @@ namespace HowManyTimes
     {
         public int SearchAndCount(string text, string word)
         {
-            int numberOfOccurences = 0;
+            int numberOfOccurrences = 0;
 
             // TODO Count the number of times the word occurs in the text
 
             // Please dont change the code below (automatic unit tests)
-            return numberOfOccurences;
+            return numberOfOccurrences;
         }
     }
 }
