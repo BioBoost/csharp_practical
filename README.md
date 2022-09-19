@@ -288,11 +288,8 @@ You may need to restart Visual Studio.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Teach the Teacher](./24-defining-custom-classes/teach_the_teacher/README.md)                    | Medium | Store personal details of teacher | 👍 |
-| ❌ | [Quadratic](./24-defining-custom-classes/quadratic/README.md)                                    | Medium | Solve a quadratic equation | ❌ |
-| ❌ | [Vector from Start to End](./24-defining-custom-classes/vector_from_start_to_end/README.md)      | Medium | Create vectors and calculate resulting total vector | 👍 |
 | ❌ | [Kings of Nothing](./24-defining-custom-classes/kings_of_nothing/README.md)                      | Medium | Implement a player class for a game | 👍 |
 | ❌ | [The Paint Factory](./24-defining-custom-classes/the_paint_factory/README.md)                    | Medium | Calculate how much paint is required for complex surfaces | 👍 |
-| ❌ | [Things are Complex](./24-defining-custom-classes/things_are_complex/README.md)                  | Hard | Math with Complex numbers | 👍 |
 
 ### Chapter 25 - Getters, Setters and Properties
 
@@ -305,8 +302,12 @@ You may need to restart Visual Studio.
 
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
-| ❌ | [I Can Hear Colors](./26-constructors/i_can_hear_colors/README.md)           | Easy | Refactor the Color class with properties and constructors | 👍 |
-| ❌ | [Back to the Future](./26-constructors/back_to_the_future/README.md)         | Medium | Create a TimeStamp class | 👍 |
+| ❌ | [I Can Hear Colors](./26-constructors/i_can_hear_colors/README.md)                               | Easy | Refactor the Color class with properties and constructors | 👍 |
+| ❌ | [Back to the Future](./26-constructors/back_to_the_future/README.md)                             | Medium | Create a TimeStamp class | 👍 |
+| ❌ | [Vector from Start to End](./24-defining-custom-classes/vector_from_start_to_end/README.md)      | Medium | Create vectors and calculate resulting total vector | 👍 |
+| ❌ | [Quadratic](./24-defining-custom-classes/quadratic/README.md)                                    | Medium | Solve a quadratic equation | ❌ |
+| ❌ | [Things are Complex](./24-defining-custom-classes/things_are_complex/README.md)                  | Hard | Math with Complex numbers | 👍 |
+
 
 ### Chapter 28 - Interfaces
 
