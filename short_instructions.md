@@ -22,4 +22,4 @@ Make it a habit of committing and pushing regularly. **At least after solving ea
 Every time you wish to pull updates you need to follow these steps:
 
 1. First make sure that you have no local changes. This can be seen by executing `git status`. It should state `nothing to commit, working tree clean`. If not, you first need to add and commit the changes (see section [Committing Changes](#committing-changes)).
-2. Now issue the command `git pull base master` to pull the latest changes.
+2. Now issue the command `git pull base master --allow-unrelated-histories` to pull the latest changes.
