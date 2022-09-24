@@ -51,13 +51,13 @@ touch README.md
 Using the power of Linux of course:
 
 ```bash
-find . -name "*.csproj" -exec sed -i 's/netcoreapp2/netcoreapp3/' '{}' \;
+find . -name "*.csproj" -exec sed -i 's/netcoreapp3.1/net6.0/' '{}' \;
 ```
 
 Or using PowerShell:
 
 ```powershell
 Get-ChildItem -Path .\ -Filter *.csproj -Recurse -File -Name| ForEach-Object {
-  (Get-Content $_).replace('netcoreapp2', 'netcoreapp3') | Set-Content $_
+  (Get-Content $_).replace('netcoreapp3.1', 'net6.0') | Set-Content $_
 }
 ```
