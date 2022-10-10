@@ -20,7 +20,7 @@
 ## Creating C# Apps via CLI
 
 ```shell
-$PROJECT="BiggestOfThemAll"
+PROJECT="BiggestOfThemAll"
 
 mkdir $PROJECT ; cd $PROJECT
 dotnet new console --name $PROJECT --language c# --framework net6.0
@@ -34,7 +34,7 @@ touch README.md
 or when using GitHub actions and automatic test runs:
 
 ```powershell
-$PROJECT="BiggestOfThemAll"
+PROJECT="BiggestOfThemAll"
 
 mkdir $PROJECT ; cd $PROJECT
 dotnet new console --name $PROJECT --language c# --framework net6.0
