@@ -203,6 +203,7 @@ You may need to restart Visual Studio.
 | Finished | Challenge | Difficulty | Description | Unit Tests? |
 | :---: | --- | --- | --- | :---: |
 | ❌ | [Student ID](./06-getting-user-data/student_id/README.md)        | Medium | Generate student email and ID | 👍 |
+| ❌ | [Far From Home](./06-getting-user-data/far_from_home/README.md)  | Medium | Calculate fuel usage for a trip | ❌ |
 | ❌ | [Time Machine](./06-getting-user-data/time_machine/README.md)    | Hard | Add hours and minutes to clock | 👍 |
 
 ### Chapter 07 - Methods
