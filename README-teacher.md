@@ -23,7 +23,7 @@
 PROJECT="BiggestOfThemAll"
 
 mkdir $PROJECT ; cd $PROJECT
-dotnet new console --name $PROJECT --language c# --framework net6.0
+dotnet new console --name $PROJECT --language c# --framework net6.0 --use-program-main
 dotnet new xunit --name Tests --language c# --framework net6.0
 dotnet new sln --name $PROJECT
 dotnet sln $PROJECT.sln add $PROJECT/$PROJECT.csproj Tests/Tests.csproj
@@ -37,7 +37,7 @@ or when using GitHub actions and automatic test runs:
 PROJECT="BiggestOfThemAll"
 
 mkdir $PROJECT ; cd $PROJECT
-dotnet new console --name $PROJECT --language c# --framework net6.0
+dotnet new console --name $PROJECT --language c# --framework net6.0 --use-program-main
 dotnet new xunit --name Tests --language c# --framework net6.0
 dotnet new sln --name $PROJECT
 dotnet sln $PROJECT.sln add $PROJECT/$PROJECT.csproj Tests/Tests.csproj
